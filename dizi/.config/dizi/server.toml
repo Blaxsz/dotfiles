@@ -1,0 +1,16 @@
+[server]
+socket = "/tmp/dizi-server-socket"
+
+# Where to save playlist on exit
+playlist = "~/.config/dizi/playlist.m3u"
+
+# path to run a script whenever the song changes
+# on_song_change = "some_script"
+
+[server.player]
+audio_system = "jack"
+
+shuffle = false
+repeat = true
+next = true
+volume = 15

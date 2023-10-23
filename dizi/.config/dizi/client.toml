@@ -1,0 +1,19 @@
+[client]
+socket = "/tmp/dizi-server-socket"
+home_dir = "~/Music"
+
+[client.display]
+show_borders = true
+show_hidden = false
+show_icons = false
+layout = "~/.config/dizi/layout.json"
+
+[client.display.sort]
+directory_first = true
+reverse = false
+
+# Options include
+# - lexical  (10.txt comes before 2.txt)
+# - natural  (2.txt comes before 10.txt)
+# - mtime
+sort_method = "natural"
