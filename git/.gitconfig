@@ -3,3 +3,5 @@
 	email = joaovictor.gizidoro@pm.me
 [core]
 	autocrlf = input
+[safe]
+	directory = /usr/local/suckless
