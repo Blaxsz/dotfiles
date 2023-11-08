@@ -59,11 +59,18 @@ static const Layout layouts[] = {
 static char dmenumon[2] = "0"; /* component of dmenucmd, manipulated in spawn() */
 static const char *dmenucmd[] = { "dmenu_run", "-m", dmenumon, "-fn", dmenufont, "-nb", col_base01, "-nf", col_base04, "-sb", col_base0D, "-sf", col_base00, NULL };
 static const char *termcmd[]  = { "uxterm", NULL };
+static const char *thorium[]  = { "thorium-browser", NULL };
+static const char *librewolf[]  = { "librewolf", NULL };
 
 static const Key keys[] = {
 	/* modifier                     key        function        argument */
 	{ MODKEY,                       XK_p,      spawn,          {.v = dmenucmd } },
 	{ MODKEY,              		XK_Return, spawn,          {.v = termcmd  } },
+	{ MODKEY, 			XK_F1,     spawn, 	   {.v = thorium } },
+	{ MODKEY, 			XK_F2,     spawn, 	   {.v = librewolf } },
+	{ MODKEY, 			XK_F3,     spawn, 	   SHCMD("idea &!") },
+	{ MODKEY,			XK_F11,    spawn,          SHCMD("wpctl set-volume @DEFAULT_AUDIO_SINK@ 1%-") },
+	{ MODKEY,                       XK_F12,    spawn,          SHCMD("wpctl set-volume @DEFAULT_AUDIO_SINK@ 1%+") },
 	{ MODKEY,                       XK_b,      togglebar,      {0} },
 	{ MODKEY,                       XK_j,      focusstack,     {.i = +1 } },
 	{ MODKEY,                       XK_k,      focusstack,     {.i = -1 } },
