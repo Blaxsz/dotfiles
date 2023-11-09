@@ -30,3 +30,4 @@ eval "$(starship init zsh)"
 #THIS MUST BE AT THE END OF THE FILE FOR SDKMAN TO WORK!!!
 export SDKMAN_DIR="/home/darknoul/.sdkman"
 [[ -s "/home/darknoul/.sdkman/bin/sdkman-init.sh" ]] && source "/home/darknoul/.sdkman/bin/sdkman-init.sh"
+___MY_VMOPTIONS_SHELL_FILE="${HOME}/.jetbrains.vmoptions.sh"; if [ -f "${___MY_VMOPTIONS_SHELL_FILE}" ]; then . "${___MY_VMOPTIONS_SHELL_FILE}"; fi
