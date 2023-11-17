@@ -12,7 +12,7 @@ static const int showbar            = 1;        /* 0 means no bar */
 static const int topbar             = 1;        /* 0 means bottom bar */
 static const char *fonts[]          = { "FantasqueSansM Nerd Font Mono:pixelsize=14" };
 static const char dmenufont[]       = "FantasqueSansM Nerd Font Mono:pixelsize=14";
-#include "themes/one-light.h"
+#include "themes/catppuccin-latte.h"
 static const char *colors[][3]      = {
 	/*               fg          bg          border   */
 	[SchemeNorm] = { col_base04, col_base01, col_base02 },
