@@ -1,8 +1,8 @@
 sw_volume: 100
 audio_device_state:1:My ALSA Device
 state: pause
-current: 245
-time: 165.842000
+current: 487
+time: 81.742000
 random: 0
 repeat: 0
 single: 0
@@ -11,372 +11,646 @@ crossfade: 0
 mixrampdb: 0.000000
 mixrampdelay: -1.000000
 playlist_begin
-0:Taylor Swift/Taylor Swift - evermore (deluxe version) (2020) [FLAC] [24B-88.2kHz]/02. Taylor Swift - champagne problems (Explicit).flac
-1:Taylor Swift/Taylor Swift - reputation (2017) [FLAC] [24B-44.1kHz]/04. Taylor Swift - Don’t Blame Me.flac
-2:Taylor Swift/Taylor Swift - evermore (deluxe version) (2020) [FLAC] [24B-88.2kHz]/03. Taylor Swift - gold rush (Explicit).flac
-3:Taylor Swift/Taylor Swift - reputation (2017) [FLAC] [24B-44.1kHz]/07. Taylor Swift - So It Goes.flac
-4:Taylor Swift/Taylor Swift - Red (Taylor's Version) (2021) [FLAC] [24B-96kHz]/05. Taylor Swift - All Too Well (Taylor's Version) (Explicit).flac
-5:Taylor Swift/Taylor Swift - Speak Now (Taylor's Version) (2023) [FLAC] [24B-44.1kHz]/18. Taylor Swift - When Emma Falls in Love (Taylor’s Version) (From The Vault).flac
-6:Taylor Swift/Taylor Swift - 1989 (Deluxe Edition) (2014) [FLAC] [24B-44.1kHz]/03. Taylor Swift - Style.flac
-7:Taylor Swift/Taylor Swift - reputation (2017) [FLAC] [24B-44.1kHz]/05. Taylor Swift - Delicate.flac
-8:Taylor Swift/Taylor Swift - Speak Now (Taylor's Version) (2023) [FLAC] [24B-44.1kHz]/11. Taylor Swift - Innocent (Taylor's Version).flac
-9:Taylor Swift/Taylor Swift - Red (Taylor's Version) (2021) [FLAC] [24B-96kHz]/27. Taylor Swift - Forever Winter (Taylor's Version) (From The Vault) (Explicit).flac
-10:Taylor Swift/Taylor Swift - Red (Taylor's Version) (2021) [FLAC] [24B-96kHz]/14. Taylor Swift - Everything Has Changed (Taylor's Version) (Explicit).flac
-11:Taylor Swift/Taylor Swift - Lover (2019) [FLAC] [24B-44.1kHz]/17. Taylor Swift - It’s Nice To Have A Friend.flac
-12:Taylor Swift/Taylor Swift - reputation (2017) [FLAC] [24B-44.1kHz]/01. Taylor Swift - ...Ready For It.flac
-13:Taylor Swift/Taylor Swift - Red (Taylor's Version) (2021) [FLAC] [24B-96kHz]/03. Taylor Swift - Treacherous (Taylor's Version) (Explicit).flac
-14:Taylor Swift/Taylor Swift - Red (Taylor's Version) (2021) [FLAC] [24B-96kHz]/23. Taylor Swift - Nothing New (Taylor's Version) (From The Vault) (Explicit).flac
-15:Taylor Swift/Taylor Swift - 1989 (Deluxe Edition) (2014) [FLAC] [24B-44.1kHz]/17. Taylor Swift - I Know Places (Voice Memo).flac
-16:Taylor Swift/Taylor Swift - Midnights (3am Edition) (2022) [FLAC] [24B-48kHz]/13. Taylor Swift - Mastermind (Explicit).flac
-17:Taylor Swift/Taylor Swift - Red (Taylor's Version) (2021) [FLAC] [24B-96kHz]/11. Taylor Swift - Holy Ground (Taylor's Version) (Explicit).flac
-18:Taylor Swift/Taylor Swift - Lover (2019) [FLAC] [24B-44.1kHz]/09. Taylor Swift - Cornelia Street.flac
-19:Taylor Swift/Taylor Swift - Fearless (Taylor's Version) (2021) [FLAC] [24B-96kHz]/15. Taylor Swift - Untouchable (Taylor’s Version).flac
-20:Taylor Swift/Taylor Swift - 1989 (Deluxe Edition) (2014) [FLAC] [24B-44.1kHz]/09. Taylor Swift - Wildest Dreams.flac
-21:Taylor Swift/Taylor Swift - Fearless (Taylor's Version) (2021) [FLAC] [24B-96kHz]/18. Taylor Swift - Superstar (Taylor’s Version).flac
-22:Taylor Swift/Taylor Swift - evermore (deluxe version) (2020) [FLAC] [24B-88.2kHz]/05. Taylor Swift - tolerate it (Explicit).flac
-23:Taylor Swift/Taylor Swift - folklore (deluxe version - explicit) (2020) [FLAC] [24B-44.1kHz]/01. Taylor Swift - the 1 (Explicit).flac
-24:Taylor Swift/Taylor Swift - evermore (deluxe version) (2020) [FLAC] [24B-88.2kHz]/16. Taylor Swift - right where you left me (bonus track) (Explicit).flac
-25:Taylor Swift/Taylor Swift - Speak Now (Taylor's Version) (2023) [FLAC] [24B-44.1kHz]/09. Taylor Swift - Enchanted (Taylor's Version).flac
-26:Taylor Swift/Taylor Swift - evermore (deluxe version) (2020) [FLAC] [24B-88.2kHz]/01. Taylor Swift - willow (Explicit).flac
-27:Taylor Swift/Taylor Swift - Fearless (Taylor's Version) (2021) [FLAC] [24B-96kHz]/12. Taylor Swift - The Best Day (Taylor’s Version).flac
-28:Taylor Swift/Taylor Swift - Red (Taylor's Version) (2021) [FLAC] [24B-96kHz]/06. Taylor Swift - 22 (Taylor's Version) (Explicit).flac
-29:Taylor Swift/Taylor Swift - Fearless (Taylor's Version) (2021) [FLAC] [24B-96kHz]/14. Taylor Swift - Jump Then Fall (Taylor’s Version).flac
-30:Taylor Swift/Taylor Swift - Lover (2019) [FLAC] [24B-44.1kHz]/18. Taylor Swift - Daylight.flac
-31:Taylor Swift/Taylor Swift - Red (Taylor's Version) (2021) [FLAC] [24B-96kHz]/11. Taylor Swift - Holy Ground (Taylor's Version) (Explicit).flac
-32:Taylor Swift/Taylor Swift - 1989 (Deluxe Edition) (2014) [FLAC] [24B-44.1kHz]/04. Taylor Swift - Out Of The Woods.flac
-33:Taylor Swift/Taylor Swift - Red (Taylor's Version) (2021) [FLAC] [24B-96kHz]/15. Taylor Swift - Starlight (Taylor's Version) (Explicit).flac
-34:Taylor Swift/Taylor Swift - Lover (2019) [FLAC] [24B-44.1kHz]/06. Taylor Swift - I Think He Knows.flac
-35:Taylor Swift/Taylor Swift - Speak Now (Taylor's Version) (2023) [FLAC] [24B-44.1kHz]/06. Taylor Swift - Mean (Taylor's Version).flac
-36:Taylor Swift/Taylor Swift - Fearless (Taylor's Version) (2021) [FLAC] [24B-96kHz]/11. Taylor Swift - Forever & Always (Taylor’s Version).flac
-37:Taylor Swift/Taylor Swift - Fearless (Taylor's Version) (2021) [FLAC] [24B-96kHz]/10. Taylor Swift - The Way I Loved You (Taylor’s Version).flac
-38:Taylor Swift/Taylor Swift - Red (Taylor's Version) (2021) [FLAC] [24B-96kHz]/25. Taylor Swift - Message In A Bottle (Taylor's Version) (From The Vault) (Explicit).flac
-39:Taylor Swift/Taylor Swift - Midnights (3am Edition) (2022) [FLAC] [24B-48kHz]/20. Taylor Swift - Dear Reader (Explicit).flac
-40:Taylor Swift/Taylor Swift - Red (Taylor's Version) (2021) [FLAC] [24B-96kHz]/08. Taylor Swift - We Are Never Ever Getting Back Together (Taylor's Version) (Explicit).flac
-41:Taylor Swift/Taylor Swift - Lover (2019) [FLAC] [24B-44.1kHz]/08. Taylor Swift - Paper Rings.flac
-42:Taylor Swift/Taylor Swift - Lover (2019) [FLAC] [24B-44.1kHz]/01. Taylor Swift - I Forgot That You Existed.flac
-43:Taylor Swift/Taylor Swift - Red (Taylor's Version) (2021) [FLAC] [24B-96kHz]/05. Taylor Swift - All Too Well (Taylor's Version) (Explicit).flac
-44:Taylor Swift/Taylor Swift - 1989 (Deluxe Edition) (2014) [FLAC] [24B-44.1kHz]/06. Taylor Swift - Shake It Off.flac
-45:Taylor Swift/Taylor Swift - reputation (2017) [FLAC] [24B-44.1kHz]/02. Taylor Swift - End Game.flac
-46:Taylor Swift/Taylor Swift - Speak Now (Taylor's Version) (2023) [FLAC] [24B-44.1kHz]/15. Taylor Swift - Ours (Taylor’s Version).flac
-47:Taylor Swift/Taylor Swift - Red (Taylor's Version) (2021) [FLAC] [24B-96kHz]/18. Taylor Swift - Come Back...Be Here (Taylor's Version) (Explicit).flac
-48:Taylor Swift/Taylor Swift - Speak Now (Taylor's Version) (2023) [FLAC] [24B-44.1kHz]/04. Taylor Swift - Speak Now (Taylor's Version).flac
-49:Taylor Swift/Taylor Swift - Red (Taylor's Version) (2021) [FLAC] [24B-96kHz]/25. Taylor Swift - Message In A Bottle (Taylor's Version) (From The Vault) (Explicit).flac
-50:Taylor Swift/Taylor Swift - Midnights (3am Edition) (2022) [FLAC] [24B-48kHz]/08. Taylor Swift - Vigilante Shit (Explicit).flac
-51:Taylor Swift/Taylor Swift - Lover (2019) [FLAC] [24B-44.1kHz]/16. Taylor Swift - ME!.flac
-52:Taylor Swift/Taylor Swift - Red (Taylor's Version) (2021) [FLAC] [24B-96kHz]/19. Taylor Swift - Girl At Home (Taylor's Version) (Explicit).flac
-53:Taylor Swift/Taylor Swift - Fearless (Taylor's Version) (2021) [FLAC] [24B-96kHz]/21. Taylor Swift - You All Over Me (Taylor’s Version) (From The Vault).flac
-54:Taylor Swift/Taylor Swift - 1989 (Deluxe Edition) (2014) [FLAC] [24B-44.1kHz]/08. Taylor Swift - Bad Blood.flac
-55:Taylor Swift/Taylor Swift - evermore (deluxe version) (2020) [FLAC] [24B-88.2kHz]/08. Taylor Swift - dorothea (Explicit).flac
-56:Taylor Swift/Taylor Swift - Midnights (3am Edition) (2022) [FLAC] [24B-48kHz]/05. Taylor Swift - You're On Your Own, Kid (Explicit).flac
-57:Taylor Swift/Taylor Swift - Midnights (3am Edition) (2022) [FLAC] [24B-48kHz]/11. Taylor Swift - Karma (Explicit).flac
+0:Taylor Swift/Taylor Swift - Speak Now (Taylor's Version) (2023) [FLAC] [24B-44.1kHz]/18. Taylor Swift - When Emma Falls in Love (Taylor’s Version) (From The Vault).flac
+1:Taylor Swift/Taylor Swift - evermore (deluxe version) (2020) [FLAC] [24B-88.2kHz]/06. Taylor Swift - no body, no crime (Explicit).flac
+2:Taylor Swift/Taylor Swift - evermore (deluxe version) (2020) [FLAC] [24B-88.2kHz]/11. Taylor Swift - cowboy like me (Explicit).flac
+3:Taylor Swift/Taylor Swift - folklore (deluxe version - explicit) (2020) [FLAC] [24B-44.1kHz]/02. Taylor Swift - cardigan (Explicit).flac
+4:Taylor Swift/Taylor Swift - Midnights (3am Edition) (2022) [FLAC] [24B-48kHz]/05. Taylor Swift - You're On Your Own, Kid (Explicit).flac
+5:Taylor Swift/Taylor Swift - Red (Taylor's Version) (2021) [FLAC] [24B-96kHz]/24. Taylor Swift - Babe (Taylor's Version) (From The Vault) (Explicit).flac
+6:Taylor Swift/Taylor Swift - Speak Now (Taylor's Version) (2023) [FLAC] [24B-44.1kHz]/10. Taylor Swift - Better Than Revenge (Taylor's Version).flac
+7:Taylor Swift/Taylor Swift - Red (Taylor's Version) (2021) [FLAC] [24B-96kHz]/15. Taylor Swift - Starlight (Taylor's Version) (Explicit).flac
+8:Taylor Swift/Taylor Swift - 1989 (Deluxe Edition) (2014) [FLAC] [24B-44.1kHz]/10. Taylor Swift - How You Get The Girl.flac
+9:Taylor Swift/Taylor Swift - Fearless (Taylor's Version) (2021) [FLAC] [24B-96kHz]/05. Taylor Swift - White Horse (Taylor’s Version).flac
+10:Taylor Swift/Taylor Swift - Red (Taylor's Version) (2021) [FLAC] [24B-96kHz]/29. Taylor Swift - The Very First Night (Taylor's Version) (From The Vault) (Explicit).flac
+11:Taylor Swift/Taylor Swift - 1989 (Deluxe Edition) (2014) [FLAC] [24B-44.1kHz]/15. Taylor Swift - You Are In Love.flac
+12:Taylor Swift/Taylor Swift - Speak Now (Taylor's Version) (2023) [FLAC] [24B-44.1kHz]/21. Taylor Swift - Foolish One (Taylor’s Version) (From The Vault).flac
+13:Taylor Swift/Taylor Swift - folklore (deluxe version - explicit) (2020) [FLAC] [24B-44.1kHz]/14. Taylor Swift - betty (Explicit).flac
+14:Taylor Swift/Taylor Swift - folklore (deluxe version - explicit) (2020) [FLAC] [24B-44.1kHz]/04. Taylor Swift - exile (Explicit).flac
+15:Taylor Swift/Taylor Swift - Lover (2019) [FLAC] [24B-44.1kHz]/12. Taylor Swift - Soon You’ll Get Better.flac
+16:Taylor Swift/Taylor Swift - reputation (2017) [FLAC] [24B-44.1kHz]/06. Taylor Swift - Look What You Made Me Do.flac
+17:Taylor Swift/Taylor Swift - evermore (deluxe version) (2020) [FLAC] [24B-88.2kHz]/15. Taylor Swift - evermore (Explicit).flac
+18:Taylor Swift/Taylor Swift - Lover (2019) [FLAC] [24B-44.1kHz]/01. Taylor Swift - I Forgot That You Existed.flac
+19:Taylor Swift/Taylor Swift - Red (Taylor's Version) (2021) [FLAC] [24B-96kHz]/26. Taylor Swift - I Bet You Think About Me (Taylor's Version) (From The Vault) (Explicit).flac
+20:Taylor Swift/Taylor Swift - evermore (deluxe version) (2020) [FLAC] [24B-88.2kHz]/08. Taylor Swift - dorothea (Explicit).flac
+21:Taylor Swift/Taylor Swift - Midnights (3am Edition) (2022) [FLAC] [24B-48kHz]/10. Taylor Swift - Labyrinth (Explicit).flac
+22:Taylor Swift/Taylor Swift - Fearless (Taylor's Version) (2021) [FLAC] [24B-96kHz]/22. Taylor Swift - Mr. Perfectly Fine (Taylor’s Version) (From The Vault).flac
+23:Taylor Swift/Taylor Swift - Fearless (Taylor's Version) (2021) [FLAC] [24B-96kHz]/01. Taylor Swift - Fearless (Taylor’s Version).flac
+24:Taylor Swift/Taylor Swift - 1989 (Deluxe Edition) (2014) [FLAC] [24B-44.1kHz]/09. Taylor Swift - Wildest Dreams.flac
+25:Taylor Swift/Taylor Swift - Midnights (3am Edition) (2022) [FLAC] [24B-48kHz]/17. Taylor Swift - High Infidelity (Explicit).flac
+26:Taylor Swift/Taylor Swift - Speak Now (Taylor's Version) (2023) [FLAC] [24B-44.1kHz]/22. Taylor Swift - Timeless (Taylor’s Version) (From The Vault).flac
+27:Taylor Swift/Taylor Swift - Midnights (3am Edition) (2022) [FLAC] [24B-48kHz]/01. Taylor Swift - Lavender Haze (Explicit).flac
+28:Taylor Swift/Taylor Swift - Red (Taylor's Version) (2021) [FLAC] [24B-96kHz]/03. Taylor Swift - Treacherous (Taylor's Version) (Explicit).flac
+29:Taylor Swift/Taylor Swift - 1989 (Deluxe Edition) (2014) [FLAC] [24B-44.1kHz]/14. Taylor Swift - Wonderland.flac
+30:Taylor Swift/Taylor Swift - evermore (deluxe version) (2020) [FLAC] [24B-88.2kHz]/06. Taylor Swift - no body, no crime (Explicit).flac
+31:Taylor Swift/Taylor Swift - Midnights (3am Edition) (2022) [FLAC] [24B-48kHz]/16. Taylor Swift - Paris (Explicit).flac
+32:Taylor Swift/Taylor Swift - 1989 (Deluxe Edition) (2014) [FLAC] [24B-44.1kHz]/07. Taylor Swift - I Wish You Would.flac
+33:Taylor Swift/Taylor Swift - Fearless (Taylor's Version) (2021) [FLAC] [24B-96kHz]/08. Taylor Swift - Tell Me Why (Taylor’s Version).flac
+34:Taylor Swift/Taylor Swift - Midnights (3am Edition) (2022) [FLAC] [24B-48kHz]/07. Taylor Swift - Question (Explicit).flac
+35:Taylor Swift/Taylor Swift - Lover (2019) [FLAC] [24B-44.1kHz]/18. Taylor Swift - Daylight.flac
+36:Taylor Swift/Taylor Swift - evermore (deluxe version) (2020) [FLAC] [24B-88.2kHz]/13. Taylor Swift - marjorie (Explicit).flac
+37:Taylor Swift/Taylor Swift - Red (Taylor's Version) (2021) [FLAC] [24B-96kHz]/27. Taylor Swift - Forever Winter (Taylor's Version) (From The Vault) (Explicit).flac
+38:Taylor Swift/Taylor Swift - Fearless (Taylor's Version) (2021) [FLAC] [24B-96kHz]/25. Taylor Swift - Don’t You (Taylor’s Version) (From The Vault).flac
+39:Taylor Swift/Taylor Swift - Lover (2019) [FLAC] [24B-44.1kHz]/13. Taylor Swift - False God.flac
+40:Taylor Swift/Taylor Swift - evermore (deluxe version) (2020) [FLAC] [24B-88.2kHz]/14. Taylor Swift - closure (Explicit).flac
+41:Taylor Swift/Taylor Swift - 1989 (Deluxe Edition) (2014) [FLAC] [24B-44.1kHz]/16. Taylor Swift - New Romantics.flac
+42:Taylor Swift/Taylor Swift - evermore (deluxe version) (2020) [FLAC] [24B-88.2kHz]/01. Taylor Swift - willow (Explicit).flac
+43:Taylor Swift/Taylor Swift - 1989 (Deluxe Edition) (2014) [FLAC] [24B-44.1kHz]/09. Taylor Swift - Wildest Dreams.flac
+44:Taylor Swift/Taylor Swift - Midnights (3am Edition) (2022) [FLAC] [24B-48kHz]/19. Taylor Swift - Would've, Could've, Should've (Explicit).flac
+45:Taylor Swift/Taylor Swift - folklore (deluxe version - explicit) (2020) [FLAC] [24B-44.1kHz]/10. Taylor Swift - illicit affairs (Explicit).flac
+46:Taylor Swift/Taylor Swift - Speak Now (Taylor's Version) (2023) [FLAC] [24B-44.1kHz]/03. Taylor Swift - Back To December (Taylor's Version).flac
+47:Taylor Swift/Taylor Swift - 1989 (Deluxe Edition) (2014) [FLAC] [24B-44.1kHz]/12. Taylor Swift - I Know Places.flac
+48:Taylor Swift/Taylor Swift - Midnights (3am Edition) (2022) [FLAC] [24B-48kHz]/11. Taylor Swift - Karma (Explicit).flac
+49:Taylor Swift/Taylor Swift - reputation (2017) [FLAC] [24B-44.1kHz]/09. Taylor Swift - Getaway Car.flac
+50:Taylor Swift/Taylor Swift - Fearless (Taylor's Version) (2021) [FLAC] [24B-96kHz]/15. Taylor Swift - Untouchable (Taylor’s Version).flac
+51:Taylor Swift/Taylor Swift - Red (Taylor's Version) (2021) [FLAC] [24B-96kHz]/24. Taylor Swift - Babe (Taylor's Version) (From The Vault) (Explicit).flac
+52:Taylor Swift/Taylor Swift - Midnights (3am Edition) (2022) [FLAC] [24B-48kHz]/16. Taylor Swift - Paris (Explicit).flac
+53:Taylor Swift/Taylor Swift - Lover (2019) [FLAC] [24B-44.1kHz]/14. Taylor Swift - You Need To Calm Down.flac
+54:Taylor Swift/Taylor Swift - Red (Taylor's Version) (2021) [FLAC] [24B-96kHz]/21. Taylor Swift - Ronan (Taylor's Version) (Explicit).flac
+55:Taylor Swift/Taylor Swift - Speak Now (Taylor's Version) (2023) [FLAC] [24B-44.1kHz]/15. Taylor Swift - Ours (Taylor’s Version).flac
+56:Taylor Swift/Taylor Swift - reputation (2017) [FLAC] [24B-44.1kHz]/11. Taylor Swift - Dancing With Our Hands Tied.flac
+57:Taylor Swift/Taylor Swift - evermore (deluxe version) (2020) [FLAC] [24B-88.2kHz]/11. Taylor Swift - cowboy like me (Explicit).flac
 58:Taylor Swift/Taylor Swift - folklore (deluxe version - explicit) (2020) [FLAC] [24B-44.1kHz]/13. Taylor Swift - epiphany (Explicit).flac
-59:Taylor Swift/Taylor Swift - Lover (2019) [FLAC] [24B-44.1kHz]/03. Taylor Swift - Lover.flac
-60:Taylor Swift/Taylor Swift - Red (Taylor's Version) (2021) [FLAC] [24B-96kHz]/26. Taylor Swift - I Bet You Think About Me (Taylor's Version) (From The Vault) (Explicit).flac
-61:Taylor Swift/Taylor Swift - Red (Taylor's Version) (2021) [FLAC] [24B-96kHz]/21. Taylor Swift - Ronan (Taylor's Version) (Explicit).flac
-62:Taylor Swift/Taylor Swift - Fearless (Taylor's Version) (2021) [FLAC] [24B-96kHz]/15. Taylor Swift - Untouchable (Taylor’s Version).flac
-63:Taylor Swift/Taylor Swift - folklore (deluxe version - explicit) (2020) [FLAC] [24B-44.1kHz]/02. Taylor Swift - cardigan (Explicit).flac
-64:Taylor Swift/Taylor Swift - Fearless (Taylor's Version) (2021) [FLAC] [24B-96kHz]/22. Taylor Swift - Mr. Perfectly Fine (Taylor’s Version) (From The Vault).flac
-65:Taylor Swift/Taylor Swift - folklore (deluxe version - explicit) (2020) [FLAC] [24B-44.1kHz]/05. Taylor Swift - my tears ricochet (Explicit).flac
-66:Taylor Swift/Taylor Swift - 1989 (Deluxe Edition) (2014) [FLAC] [24B-44.1kHz]/13. Taylor Swift - Clean.flac
-67:Taylor Swift/Taylor Swift - Red (Taylor's Version) (2021) [FLAC] [24B-96kHz]/09. Taylor Swift - Stay Stay Stay (Taylor's Version) (Explicit).flac
-68:Taylor Swift/Taylor Swift - Fearless (Taylor's Version) (2021) [FLAC] [24B-96kHz]/07. Taylor Swift - Breathe (Taylor’s Version).flac
-69:Taylor Swift/Taylor Swift - evermore (deluxe version) (2020) [FLAC] [24B-88.2kHz]/11. Taylor Swift - cowboy like me (Explicit).flac
-70:Taylor Swift/Taylor Swift - reputation (2017) [FLAC] [24B-44.1kHz]/08. Taylor Swift - Gorgeous.flac
-71:Taylor Swift/Taylor Swift - Red (Taylor's Version) (2021) [FLAC] [24B-96kHz]/22. Taylor Swift - Better Man (Taylor's Version) (From The Vault) (Explicit).flac
-72:Taylor Swift/Taylor Swift - Fearless (Taylor's Version) (2021) [FLAC] [24B-96kHz]/24. Taylor Swift - That’s When (Taylor’s Version) (From The Vault).flac
-73:Taylor Swift/Taylor Swift - evermore (deluxe version) (2020) [FLAC] [24B-88.2kHz]/13. Taylor Swift - marjorie (Explicit).flac
-74:Taylor Swift/Taylor Swift - Speak Now (Taylor's Version) (2023) [FLAC] [24B-44.1kHz]/18. Taylor Swift - When Emma Falls in Love (Taylor’s Version) (From The Vault).flac
-75:Taylor Swift/Taylor Swift - 1989 (Deluxe Edition) (2014) [FLAC] [24B-44.1kHz]/12. Taylor Swift - I Know Places.flac
-76:Taylor Swift/Taylor Swift - Red (Taylor's Version) (2021) [FLAC] [24B-96kHz]/16. Taylor Swift - Begin Again (Taylor's Version) (Explicit).flac
-77:Taylor Swift/Taylor Swift - Lover (2019) [FLAC] [24B-44.1kHz]/11. Taylor Swift - London Boy.flac
-78:Taylor Swift/Taylor Swift - evermore (deluxe version) (2020) [FLAC] [24B-88.2kHz]/15. Taylor Swift - evermore (Explicit).flac
-79:Taylor Swift/Taylor Swift - folklore (deluxe version - explicit) (2020) [FLAC] [24B-44.1kHz]/07. Taylor Swift - seven (Explicit).flac
-80:Taylor Swift/Taylor Swift - Red (Taylor's Version) (2021) [FLAC] [24B-96kHz]/02. Taylor Swift - Red (Taylor's Version) (Explicit).flac
-81:Taylor Swift/Taylor Swift - evermore (deluxe version) (2020) [FLAC] [24B-88.2kHz]/07. Taylor Swift - happiness (Explicit).flac
-82:Taylor Swift/Taylor Swift - Speak Now (Taylor's Version) (2023) [FLAC] [24B-44.1kHz]/14. Taylor Swift - Long Live (Taylor's Version).flac
-83:Taylor Swift/Taylor Swift - folklore (deluxe version - explicit) (2020) [FLAC] [24B-44.1kHz]/15. Taylor Swift - peace (Explicit).flac
-84:Taylor Swift/Taylor Swift - Fearless (Taylor's Version) (2021) [FLAC] [24B-96kHz]/23. Taylor Swift - We Were Happy (Taylor’s Version) (From The Vault).flac
-85:Taylor Swift/Taylor Swift - Midnights (3am Edition) (2022) [FLAC] [24B-48kHz]/12. Taylor Swift - Sweet Nothing (Explicit).flac
-86:Taylor Swift/Taylor Swift - Speak Now (Taylor's Version) (2023) [FLAC] [24B-44.1kHz]/17. Taylor Swift - Electric Touch (Taylor’s Version) (From The Vault).flac
-87:Taylor Swift/Taylor Swift - evermore (deluxe version) (2020) [FLAC] [24B-88.2kHz]/01. Taylor Swift - willow (Explicit).flac
-88:Taylor Swift/Taylor Swift - Lover (2019) [FLAC] [24B-44.1kHz]/07. Taylor Swift - Miss Americana & The Heartbreak Prince.flac
-89:Taylor Swift/Taylor Swift - Lover (2019) [FLAC] [24B-44.1kHz]/02. Taylor Swift - Cruel Summer.flac
-90:Taylor Swift/Taylor Swift - Fearless (Taylor's Version) (2021) [FLAC] [24B-96kHz]/10. Taylor Swift - The Way I Loved You (Taylor’s Version).flac
-91:Taylor Swift/Taylor Swift - Midnights (3am Edition) (2022) [FLAC] [24B-48kHz]/11. Taylor Swift - Karma (Explicit).flac
-92:Taylor Swift/Taylor Swift - Midnights (3am Edition) (2022) [FLAC] [24B-48kHz]/08. Taylor Swift - Vigilante Shit (Explicit).flac
-93:Taylor Swift/Taylor Swift - Midnights (3am Edition) (2022) [FLAC] [24B-48kHz]/07. Taylor Swift - Question (Explicit).flac
-94:Taylor Swift/Taylor Swift - Fearless (Taylor's Version) (2021) [FLAC] [24B-96kHz]/20. Taylor Swift - Today Was A Fairytale (Taylor’s Version).flac
-95:Taylor Swift/Taylor Swift - Midnights (3am Edition) (2022) [FLAC] [24B-48kHz]/03. Taylor Swift - Anti-Hero (Explicit).flac
-96:Taylor Swift/Taylor Swift - Fearless (Taylor's Version) (2021) [FLAC] [24B-96kHz]/22. Taylor Swift - Mr. Perfectly Fine (Taylor’s Version) (From The Vault).flac
-97:Taylor Swift/Taylor Swift - reputation (2017) [FLAC] [24B-44.1kHz]/02. Taylor Swift - End Game.flac
-98:Taylor Swift/Taylor Swift - evermore (deluxe version) (2020) [FLAC] [24B-88.2kHz]/09. Taylor Swift - coney island (Explicit).flac
-99:Taylor Swift/Taylor Swift - evermore (deluxe version) (2020) [FLAC] [24B-88.2kHz]/15. Taylor Swift - evermore (Explicit).flac
-100:Taylor Swift/Taylor Swift - Fearless (Taylor's Version) (2021) [FLAC] [24B-96kHz]/08. Taylor Swift - Tell Me Why (Taylor’s Version).flac
-101:Taylor Swift/Taylor Swift - 1989 (Deluxe Edition) (2014) [FLAC] [24B-44.1kHz]/09. Taylor Swift - Wildest Dreams.flac
+59:Taylor Swift/Taylor Swift - 1989 (Deluxe Edition) (2014) [FLAC] [24B-44.1kHz]/13. Taylor Swift - Clean.flac
+60:Taylor Swift/Taylor Swift - Speak Now (Taylor's Version) (2023) [FLAC] [24B-44.1kHz]/01. Taylor Swift - Mine (Taylor's Version).flac
+61:Taylor Swift/Taylor Swift - Midnights (3am Edition) (2022) [FLAC] [24B-48kHz]/02. Taylor Swift - Maroon (Explicit).flac
+62:Taylor Swift/Taylor Swift - 1989 (Deluxe Edition) (2014) [FLAC] [24B-44.1kHz]/12. Taylor Swift - I Know Places.flac
+63:Taylor Swift/Taylor Swift - Red (Taylor's Version) (2021) [FLAC] [24B-96kHz]/13. Taylor Swift - The Lucky One (Taylor's Version) (Explicit).flac
+64:Taylor Swift/Taylor Swift - Lover (2019) [FLAC] [24B-44.1kHz]/10. Taylor Swift - Death By A Thousand Cuts.flac
+65:Taylor Swift/Taylor Swift - 1989 (Deluxe Edition) (2014) [FLAC] [24B-44.1kHz]/10. Taylor Swift - How You Get The Girl.flac
+66:Taylor Swift/Taylor Swift - Red (Taylor's Version) (2021) [FLAC] [24B-96kHz]/09. Taylor Swift - Stay Stay Stay (Taylor's Version) (Explicit).flac
+67:Taylor Swift/Taylor Swift - folklore (deluxe version - explicit) (2020) [FLAC] [24B-44.1kHz]/06. Taylor Swift - mirrorball (Explicit).flac
+68:Taylor Swift/Taylor Swift - Speak Now (Taylor's Version) (2023) [FLAC] [24B-44.1kHz]/12. Taylor Swift - Haunted (Taylor's Version).flac
+69:Taylor Swift/Taylor Swift - evermore (deluxe version) (2020) [FLAC] [24B-88.2kHz]/13. Taylor Swift - marjorie (Explicit).flac
+70:Taylor Swift/Taylor Swift - reputation (2017) [FLAC] [24B-44.1kHz]/02. Taylor Swift - End Game.flac
+71:Taylor Swift/Taylor Swift - Lover (2019) [FLAC] [24B-44.1kHz]/07. Taylor Swift - Miss Americana & The Heartbreak Prince.flac
+72:Taylor Swift/Taylor Swift - Speak Now (Taylor's Version) (2023) [FLAC] [24B-44.1kHz]/11. Taylor Swift - Innocent (Taylor's Version).flac
+73:Taylor Swift/Taylor Swift - evermore (deluxe version) (2020) [FLAC] [24B-88.2kHz]/12. Taylor Swift - long story short (Explicit).flac
+74:Taylor Swift/Taylor Swift - evermore (deluxe version) (2020) [FLAC] [24B-88.2kHz]/03. Taylor Swift - gold rush (Explicit).flac
+75:Taylor Swift/Taylor Swift - folklore (deluxe version - explicit) (2020) [FLAC] [24B-44.1kHz]/06. Taylor Swift - mirrorball (Explicit).flac
+76:Taylor Swift/Taylor Swift - Speak Now (Taylor's Version) (2023) [FLAC] [24B-44.1kHz]/15. Taylor Swift - Ours (Taylor’s Version).flac
+77:Taylor Swift/Taylor Swift - reputation (2017) [FLAC] [24B-44.1kHz]/05. Taylor Swift - Delicate.flac
+78:Taylor Swift/Taylor Swift - folklore (deluxe version - explicit) (2020) [FLAC] [24B-44.1kHz]/02. Taylor Swift - cardigan (Explicit).flac
+79:Taylor Swift/Taylor Swift - reputation (2017) [FLAC] [24B-44.1kHz]/14. Taylor Swift - Call It What You Want.flac
+80:Taylor Swift/Taylor Swift - Lover (2019) [FLAC] [24B-44.1kHz]/11. Taylor Swift - London Boy.flac
+81:Taylor Swift/Taylor Swift - reputation (2017) [FLAC] [24B-44.1kHz]/05. Taylor Swift - Delicate.flac
+82:Taylor Swift/Taylor Swift - Midnights (3am Edition) (2022) [FLAC] [24B-48kHz]/12. Taylor Swift - Sweet Nothing (Explicit).flac
+83:Taylor Swift/Taylor Swift - Fearless (Taylor's Version) (2021) [FLAC] [24B-96kHz]/09. Taylor Swift - You’re Not Sorry (Taylor’s Version).flac
+84:Taylor Swift/Taylor Swift - 1989 (Deluxe Edition) (2014) [FLAC] [24B-44.1kHz]/05. Taylor Swift - All You Had To Do Was Stay.flac
+85:Taylor Swift/Taylor Swift - folklore (deluxe version - explicit) (2020) [FLAC] [24B-44.1kHz]/04. Taylor Swift - exile (Explicit).flac
+86:Taylor Swift/Taylor Swift - Red (Taylor's Version) (2021) [FLAC] [24B-96kHz]/30. Taylor Swift - All Too Well (10 Minute Version) (Taylor's Version) (From The Vault) (Explicit).flac
+87:Taylor Swift/Taylor Swift - reputation (2017) [FLAC] [24B-44.1kHz]/14. Taylor Swift - Call It What You Want.flac
+88:Taylor Swift/Taylor Swift - Speak Now (Taylor's Version) (2023) [FLAC] [24B-44.1kHz]/19. Taylor Swift - I Can See You (Taylor’s Version) (From The Vault).flac
+89:Taylor Swift/Taylor Swift - Fearless (Taylor's Version) (2021) [FLAC] [24B-96kHz]/26. Taylor Swift - Bye Bye Baby (Taylor’s Version) (From The Vault).flac
+90:Taylor Swift/Taylor Swift - 1989 (Deluxe Edition) (2014) [FLAC] [24B-44.1kHz]/06. Taylor Swift - Shake It Off.flac
+91:Taylor Swift/Taylor Swift - 1989 (Deluxe Edition) (2014) [FLAC] [24B-44.1kHz]/19. Taylor Swift - Blank Space (Voice Memo).flac
+92:Taylor Swift/Taylor Swift - Red (Taylor's Version) (2021) [FLAC] [24B-96kHz]/07. Taylor Swift - I Almost Do (Taylor's Version) (Explicit).flac
+93:Taylor Swift/Taylor Swift - Fearless (Taylor's Version) (2021) [FLAC] [24B-96kHz]/12. Taylor Swift - The Best Day (Taylor’s Version).flac
+94:Taylor Swift/Taylor Swift - Red (Taylor's Version) (2021) [FLAC] [24B-96kHz]/26. Taylor Swift - I Bet You Think About Me (Taylor's Version) (From The Vault) (Explicit).flac
+95:Taylor Swift/Taylor Swift - Red (Taylor's Version) (2021) [FLAC] [24B-96kHz]/23. Taylor Swift - Nothing New (Taylor's Version) (From The Vault) (Explicit).flac
+96:Taylor Swift/Taylor Swift - Lover (2019) [FLAC] [24B-44.1kHz]/10. Taylor Swift - Death By A Thousand Cuts.flac
+97:Taylor Swift/Taylor Swift - Red (Taylor's Version) (2021) [FLAC] [24B-96kHz]/14. Taylor Swift - Everything Has Changed (Taylor's Version) (Explicit).flac
+98:Taylor Swift/Taylor Swift - reputation (2017) [FLAC] [24B-44.1kHz]/01. Taylor Swift - ...Ready For It.flac
+99:Taylor Swift/Taylor Swift - 1989 (Deluxe Edition) (2014) [FLAC] [24B-44.1kHz]/11. Taylor Swift - This Love.flac
+100:Taylor Swift/Taylor Swift - Midnights (3am Edition) (2022) [FLAC] [24B-48kHz]/03. Taylor Swift - Anti-Hero (Explicit).flac
+101:Taylor Swift/Taylor Swift - Red (Taylor's Version) (2021) [FLAC] [24B-96kHz]/29. Taylor Swift - The Very First Night (Taylor's Version) (From The Vault) (Explicit).flac
 102:Taylor Swift/Taylor Swift - Fearless (Taylor's Version) (2021) [FLAC] [24B-96kHz]/03. Taylor Swift - Love Story (Taylor’s Version).flac
-103:Taylor Swift/Taylor Swift - Red (Taylor's Version) (2021) [FLAC] [24B-96kHz]/06. Taylor Swift - 22 (Taylor's Version) (Explicit).flac
-104:Taylor Swift/Taylor Swift - folklore (deluxe version - explicit) (2020) [FLAC] [24B-44.1kHz]/06. Taylor Swift - mirrorball (Explicit).flac
-105:Taylor Swift/Taylor Swift - evermore (deluxe version) (2020) [FLAC] [24B-88.2kHz]/14. Taylor Swift - closure (Explicit).flac
-106:Taylor Swift/Taylor Swift - Speak Now (Taylor's Version) (2023) [FLAC] [24B-44.1kHz]/12. Taylor Swift - Haunted (Taylor's Version).flac
-107:Taylor Swift/Taylor Swift - Lover (2019) [FLAC] [24B-44.1kHz]/17. Taylor Swift - It’s Nice To Have A Friend.flac
-108:Taylor Swift/Taylor Swift - Speak Now (Taylor's Version) (2023) [FLAC] [24B-44.1kHz]/16. Taylor Swift - Superman (Taylor’s Version).flac
-109:Taylor Swift/Taylor Swift - Speak Now (Taylor's Version) (2023) [FLAC] [24B-44.1kHz]/01. Taylor Swift - Mine (Taylor's Version).flac
-110:Taylor Swift/Taylor Swift - evermore (deluxe version) (2020) [FLAC] [24B-88.2kHz]/13. Taylor Swift - marjorie (Explicit).flac
-111:Taylor Swift/Taylor Swift - Red (Taylor's Version) (2021) [FLAC] [24B-96kHz]/03. Taylor Swift - Treacherous (Taylor's Version) (Explicit).flac
-112:Taylor Swift/Taylor Swift - Midnights (3am Edition) (2022) [FLAC] [24B-48kHz]/06. Taylor Swift - Midnight Rain (Explicit).flac
-113:Taylor Swift/Taylor Swift - 1989 (Deluxe Edition) (2014) [FLAC] [24B-44.1kHz]/19. Taylor Swift - Blank Space (Voice Memo).flac
-114:Taylor Swift/Taylor Swift - evermore (deluxe version) (2020) [FLAC] [24B-88.2kHz]/14. Taylor Swift - closure (Explicit).flac
-115:Taylor Swift/Taylor Swift - Midnights (3am Edition) (2022) [FLAC] [24B-48kHz]/10. Taylor Swift - Labyrinth (Explicit).flac
-116:Taylor Swift/Taylor Swift - folklore (deluxe version - explicit) (2020) [FLAC] [24B-44.1kHz]/03. Taylor Swift - the last great american dynasty (Explicit).flac
-117:Taylor Swift/Taylor Swift - Speak Now (Taylor's Version) (2023) [FLAC] [24B-44.1kHz]/21. Taylor Swift - Foolish One (Taylor’s Version) (From The Vault).flac
-118:Taylor Swift/Taylor Swift - Midnights (3am Edition) (2022) [FLAC] [24B-48kHz]/18. Taylor Swift - Glitch (Explicit).flac
-119:Taylor Swift/Taylor Swift - Red (Taylor's Version) (2021) [FLAC] [24B-96kHz]/13. Taylor Swift - The Lucky One (Taylor's Version) (Explicit).flac
-120:Taylor Swift/Taylor Swift - evermore (deluxe version) (2020) [FLAC] [24B-88.2kHz]/10. Taylor Swift - ivy (Explicit).flac
-121:Taylor Swift/Taylor Swift - Fearless (Taylor's Version) (2021) [FLAC] [24B-96kHz]/13. Taylor Swift - Change (Taylor’s Version).flac
-122:Taylor Swift/Taylor Swift - 1989 (Deluxe Edition) (2014) [FLAC] [24B-44.1kHz]/18. Taylor Swift - I Wish You Would (Voice Memo).flac
+103:Taylor Swift/Taylor Swift - Lover (2019) [FLAC] [24B-44.1kHz]/16. Taylor Swift - ME!.flac
+104:Taylor Swift/Taylor Swift - folklore (deluxe version - explicit) (2020) [FLAC] [24B-44.1kHz]/10. Taylor Swift - illicit affairs (Explicit).flac
+105:Taylor Swift/Taylor Swift - Fearless (Taylor's Version) (2021) [FLAC] [24B-96kHz]/19. Taylor Swift - The Other Side Of The Door (Taylor’s Version).flac
+106:Taylor Swift/Taylor Swift - Red (Taylor's Version) (2021) [FLAC] [24B-96kHz]/17. Taylor Swift - The Moment I Knew (Taylor's Version) (Explicit).flac
+107:Taylor Swift/Taylor Swift - 1989 (Deluxe Edition) (2014) [FLAC] [24B-44.1kHz]/18. Taylor Swift - I Wish You Would (Voice Memo).flac
+108:Taylor Swift/Taylor Swift - reputation (2017) [FLAC] [24B-44.1kHz]/07. Taylor Swift - So It Goes.flac
+109:Taylor Swift/Taylor Swift - Lover (2019) [FLAC] [24B-44.1kHz]/17. Taylor Swift - It’s Nice To Have A Friend.flac
+110:Taylor Swift/Taylor Swift - Speak Now (Taylor's Version) (2023) [FLAC] [24B-44.1kHz]/08. Taylor Swift - Never Grow Up (Taylor's Version).flac
+111:Taylor Swift/Taylor Swift - evermore (deluxe version) (2020) [FLAC] [24B-88.2kHz]/03. Taylor Swift - gold rush (Explicit).flac
+112:Taylor Swift/Taylor Swift - Speak Now (Taylor's Version) (2023) [FLAC] [24B-44.1kHz]/18. Taylor Swift - When Emma Falls in Love (Taylor’s Version) (From The Vault).flac
+113:Taylor Swift/Taylor Swift - Midnights (3am Edition) (2022) [FLAC] [24B-48kHz]/11. Taylor Swift - Karma (Explicit).flac
+114:Taylor Swift/Taylor Swift - Midnights (3am Edition) (2022) [FLAC] [24B-48kHz]/10. Taylor Swift - Labyrinth (Explicit).flac
+115:Taylor Swift/Taylor Swift - Midnights (3am Edition) (2022) [FLAC] [24B-48kHz]/15. Taylor Swift - Bigger Than The Whole Sky (Explicit).flac
+116:Taylor Swift/Taylor Swift - Lover (2019) [FLAC] [24B-44.1kHz]/06. Taylor Swift - I Think He Knows.flac
+117:Taylor Swift/Taylor Swift - Speak Now (Taylor's Version) (2023) [FLAC] [24B-44.1kHz]/01. Taylor Swift - Mine (Taylor's Version).flac
+118:Taylor Swift/Taylor Swift - Lover (2019) [FLAC] [24B-44.1kHz]/15. Taylor Swift - Afterglow.flac
+119:Taylor Swift/Taylor Swift - folklore (deluxe version - explicit) (2020) [FLAC] [24B-44.1kHz]/01. Taylor Swift - the 1 (Explicit).flac
+120:Taylor Swift/Taylor Swift - folklore (deluxe version - explicit) (2020) [FLAC] [24B-44.1kHz]/09. Taylor Swift - this is me trying (Explicit).flac
+121:Taylor Swift/Taylor Swift - folklore (deluxe version - explicit) (2020) [FLAC] [24B-44.1kHz]/14. Taylor Swift - betty (Explicit).flac
+122:Taylor Swift/Taylor Swift - 1989 (Deluxe Edition) (2014) [FLAC] [24B-44.1kHz]/14. Taylor Swift - Wonderland.flac
 123:Taylor Swift/Taylor Swift - Red (Taylor's Version) (2021) [FLAC] [24B-96kHz]/01. Taylor Swift - State Of Grace (Taylor's Version) (Explicit).flac
-124:Taylor Swift/Taylor Swift - Red (Taylor's Version) (2021) [FLAC] [24B-96kHz]/27. Taylor Swift - Forever Winter (Taylor's Version) (From The Vault) (Explicit).flac
-125:Taylor Swift/Taylor Swift - evermore (deluxe version) (2020) [FLAC] [24B-88.2kHz]/03. Taylor Swift - gold rush (Explicit).flac
-126:Taylor Swift/Taylor Swift - folklore (deluxe version - explicit) (2020) [FLAC] [24B-44.1kHz]/02. Taylor Swift - cardigan (Explicit).flac
-127:Taylor Swift/Taylor Swift - Lover (2019) [FLAC] [24B-44.1kHz]/02. Taylor Swift - Cruel Summer.flac
-128:Taylor Swift/Taylor Swift - Fearless (Taylor's Version) (2021) [FLAC] [24B-96kHz]/07. Taylor Swift - Breathe (Taylor’s Version).flac
-129:Taylor Swift/Taylor Swift - Fearless (Taylor's Version) (2021) [FLAC] [24B-96kHz]/04. Taylor Swift - Hey Stephen (Taylor’s Version).flac
-130:Taylor Swift/Taylor Swift - Lover (2019) [FLAC] [24B-44.1kHz]/18. Taylor Swift - Daylight.flac
-131:Taylor Swift/Taylor Swift - Midnights (3am Edition) (2022) [FLAC] [24B-48kHz]/20. Taylor Swift - Dear Reader (Explicit).flac
-132:Taylor Swift/Taylor Swift - Red (Taylor's Version) (2021) [FLAC] [24B-96kHz]/07. Taylor Swift - I Almost Do (Taylor's Version) (Explicit).flac
-133:Taylor Swift/Taylor Swift - folklore (deluxe version - explicit) (2020) [FLAC] [24B-44.1kHz]/12. Taylor Swift - mad woman (Explicit).flac
-134:Taylor Swift/Taylor Swift - Lover (2019) [FLAC] [24B-44.1kHz]/07. Taylor Swift - Miss Americana & The Heartbreak Prince.flac
-135:Taylor Swift/Taylor Swift - folklore (deluxe version - explicit) (2020) [FLAC] [24B-44.1kHz]/03. Taylor Swift - the last great american dynasty (Explicit).flac
-136:Taylor Swift/Taylor Swift - reputation (2017) [FLAC] [24B-44.1kHz]/15. Taylor Swift - New Year’s Day.flac
-137:Taylor Swift/Taylor Swift - evermore (deluxe version) (2020) [FLAC] [24B-88.2kHz]/11. Taylor Swift - cowboy like me (Explicit).flac
-138:Taylor Swift/Taylor Swift - Fearless (Taylor's Version) (2021) [FLAC] [24B-96kHz]/19. Taylor Swift - The Other Side Of The Door (Taylor’s Version).flac
-139:Taylor Swift/Taylor Swift - reputation (2017) [FLAC] [24B-44.1kHz]/03. Taylor Swift - I Did Something Bad.flac
-140:Taylor Swift/Taylor Swift - Fearless (Taylor's Version) (2021) [FLAC] [24B-96kHz]/16. Taylor Swift - Forever & Always (Piano Version) (Taylor’s Version).flac
-141:Taylor Swift/Taylor Swift - reputation (2017) [FLAC] [24B-44.1kHz]/04. Taylor Swift - Don’t Blame Me.flac
-142:Taylor Swift/Taylor Swift - evermore (deluxe version) (2020) [FLAC] [24B-88.2kHz]/04. Taylor Swift - ‘tis the damn season (Explicit).flac
-143:Taylor Swift/Taylor Swift - folklore (deluxe version - explicit) (2020) [FLAC] [24B-44.1kHz]/16. Taylor Swift - hoax (Explicit).flac
-144:Taylor Swift/Taylor Swift - Speak Now (Taylor's Version) (2023) [FLAC] [24B-44.1kHz]/06. Taylor Swift - Mean (Taylor's Version).flac
-145:Taylor Swift/Taylor Swift - Speak Now (Taylor's Version) (2023) [FLAC] [24B-44.1kHz]/08. Taylor Swift - Never Grow Up (Taylor's Version).flac
-146:Taylor Swift/Taylor Swift - 1989 (Deluxe Edition) (2014) [FLAC] [24B-44.1kHz]/01. Taylor Swift - Welcome To New York.flac
-147:Taylor Swift/Taylor Swift - Red (Taylor's Version) (2021) [FLAC] [24B-96kHz]/01. Taylor Swift - State Of Grace (Taylor's Version) (Explicit).flac
-148:Taylor Swift/Taylor Swift - Midnights (3am Edition) (2022) [FLAC] [24B-48kHz]/01. Taylor Swift - Lavender Haze (Explicit).flac
-149:Taylor Swift/Taylor Swift - 1989 (Deluxe Edition) (2014) [FLAC] [24B-44.1kHz]/11. Taylor Swift - This Love.flac
-150:Taylor Swift/Taylor Swift - Red (Taylor's Version) (2021) [FLAC] [24B-96kHz]/28. Taylor Swift - Run (Taylor's Version) (From The Vault) (Explicit).flac
-151:Taylor Swift/Taylor Swift - reputation (2017) [FLAC] [24B-44.1kHz]/11. Taylor Swift - Dancing With Our Hands Tied.flac
-152:Taylor Swift/Taylor Swift - Midnights (3am Edition) (2022) [FLAC] [24B-48kHz]/14. Taylor Swift - The Great War (Explicit).flac
-153:Taylor Swift/Taylor Swift - Speak Now (Taylor's Version) (2023) [FLAC] [24B-44.1kHz]/08. Taylor Swift - Never Grow Up (Taylor's Version).flac
-154:Taylor Swift/Taylor Swift - Fearless (Taylor's Version) (2021) [FLAC] [24B-96kHz]/26. Taylor Swift - Bye Bye Baby (Taylor’s Version) (From The Vault).flac
-155:Taylor Swift/Taylor Swift - Red (Taylor's Version) (2021) [FLAC] [24B-96kHz]/15. Taylor Swift - Starlight (Taylor's Version) (Explicit).flac
-156:Taylor Swift/Taylor Swift - Speak Now (Taylor's Version) (2023) [FLAC] [24B-44.1kHz]/02. Taylor Swift - Sparks Fly (Taylor’s Version).flac
-157:Taylor Swift/Taylor Swift - Lover (2019) [FLAC] [24B-44.1kHz]/09. Taylor Swift - Cornelia Street.flac
-158:Taylor Swift/Taylor Swift - folklore (deluxe version - explicit) (2020) [FLAC] [24B-44.1kHz]/10. Taylor Swift - illicit affairs (Explicit).flac
-159:Taylor Swift/Taylor Swift - Red (Taylor's Version) (2021) [FLAC] [24B-96kHz]/02. Taylor Swift - Red (Taylor's Version) (Explicit).flac
-160:Taylor Swift/Taylor Swift - evermore (deluxe version) (2020) [FLAC] [24B-88.2kHz]/16. Taylor Swift - right where you left me (bonus track) (Explicit).flac
-161:Taylor Swift/Taylor Swift - 1989 (Deluxe Edition) (2014) [FLAC] [24B-44.1kHz]/13. Taylor Swift - Clean.flac
-162:Taylor Swift/Taylor Swift - reputation (2017) [FLAC] [24B-44.1kHz]/14. Taylor Swift - Call It What You Want.flac
-163:Taylor Swift/Taylor Swift - Lover (2019) [FLAC] [24B-44.1kHz]/01. Taylor Swift - I Forgot That You Existed.flac
-164:Taylor Swift/Taylor Swift - folklore (deluxe version - explicit) (2020) [FLAC] [24B-44.1kHz]/17. Taylor Swift - the lakes (bonus track) (Explicit).flac
-165:Taylor Swift/Taylor Swift - Midnights (3am Edition) (2022) [FLAC] [24B-48kHz]/06. Taylor Swift - Midnight Rain (Explicit).flac
-166:Taylor Swift/Taylor Swift - Red (Taylor's Version) (2021) [FLAC] [24B-96kHz]/29. Taylor Swift - The Very First Night (Taylor's Version) (From The Vault) (Explicit).flac
-167:Taylor Swift/Taylor Swift - 1989 (Deluxe Edition) (2014) [FLAC] [24B-44.1kHz]/04. Taylor Swift - Out Of The Woods.flac
-168:Taylor Swift/Taylor Swift - Red (Taylor's Version) (2021) [FLAC] [24B-96kHz]/10. Taylor Swift - The Last Time (Taylor's Version) (Explicit).flac
-169:Taylor Swift/Taylor Swift - folklore (deluxe version - explicit) (2020) [FLAC] [24B-44.1kHz]/09. Taylor Swift - this is me trying (Explicit).flac
-170:Taylor Swift/Taylor Swift - folklore (deluxe version - explicit) (2020) [FLAC] [24B-44.1kHz]/15. Taylor Swift - peace (Explicit).flac
-171:Taylor Swift/Taylor Swift - Fearless (Taylor's Version) (2021) [FLAC] [24B-96kHz]/09. Taylor Swift - You’re Not Sorry (Taylor’s Version).flac
-172:Taylor Swift/Taylor Swift - Fearless (Taylor's Version) (2021) [FLAC] [24B-96kHz]/17. Taylor Swift - Come In With The Rain (Taylor’s Version).flac
-173:Taylor Swift/Taylor Swift - Midnights (3am Edition) (2022) [FLAC] [24B-48kHz]/02. Taylor Swift - Maroon (Explicit).flac
-174:Taylor Swift/Taylor Swift - Fearless (Taylor's Version) (2021) [FLAC] [24B-96kHz]/24. Taylor Swift - That’s When (Taylor’s Version) (From The Vault).flac
-175:Taylor Swift/Taylor Swift - reputation (2017) [FLAC] [24B-44.1kHz]/10. Taylor Swift - King Of My Heart.flac
-176:Taylor Swift/Taylor Swift - reputation (2017) [FLAC] [24B-44.1kHz]/09. Taylor Swift - Getaway Car.flac
-177:Taylor Swift/Taylor Swift - Red (Taylor's Version) (2021) [FLAC] [24B-96kHz]/20. Taylor Swift - State Of Grace (Acoustic Version) (Taylor's Version) (Explicit).flac
-178:Taylor Swift/Taylor Swift - folklore (deluxe version - explicit) (2020) [FLAC] [24B-44.1kHz]/07. Taylor Swift - seven (Explicit).flac
-179:Taylor Swift/Taylor Swift - Speak Now (Taylor's Version) (2023) [FLAC] [24B-44.1kHz]/17. Taylor Swift - Electric Touch (Taylor’s Version) (From The Vault).flac
-180:Taylor Swift/Taylor Swift - Red (Taylor's Version) (2021) [FLAC] [24B-96kHz]/30. Taylor Swift - All Too Well (10 Minute Version) (Taylor's Version) (From The Vault) (Explicit).flac
-181:Taylor Swift/Taylor Swift - Fearless (Taylor's Version) (2021) [FLAC] [24B-96kHz]/01. Taylor Swift - Fearless (Taylor’s Version).flac
-182:Taylor Swift/Taylor Swift - reputation (2017) [FLAC] [24B-44.1kHz]/08. Taylor Swift - Gorgeous.flac
-183:Taylor Swift/Taylor Swift - Midnights (3am Edition) (2022) [FLAC] [24B-48kHz]/17. Taylor Swift - High Infidelity (Explicit).flac
-184:Taylor Swift/Taylor Swift - folklore (deluxe version - explicit) (2020) [FLAC] [24B-44.1kHz]/12. Taylor Swift - mad woman (Explicit).flac
-185:Taylor Swift/Taylor Swift - Midnights (3am Edition) (2022) [FLAC] [24B-48kHz]/09. Taylor Swift - Bejeweled (Explicit).flac
-186:Taylor Swift/Taylor Swift - Fearless (Taylor's Version) (2021) [FLAC] [24B-96kHz]/17. Taylor Swift - Come In With The Rain (Taylor’s Version).flac
-187:Taylor Swift/Taylor Swift - Midnights (3am Edition) (2022) [FLAC] [24B-48kHz]/04. Taylor Swift - Snow On The Beach (Explicit).flac
-188:Taylor Swift/Taylor Swift - evermore (deluxe version) (2020) [FLAC] [24B-88.2kHz]/12. Taylor Swift - long story short (Explicit).flac
-189:Taylor Swift/Taylor Swift - 1989 (Deluxe Edition) (2014) [FLAC] [24B-44.1kHz]/02. Taylor Swift - Blank Space.flac
-190:Taylor Swift/Taylor Swift - folklore (deluxe version - explicit) (2020) [FLAC] [24B-44.1kHz]/14. Taylor Swift - betty (Explicit).flac
-191:Taylor Swift/Taylor Swift - evermore (deluxe version) (2020) [FLAC] [24B-88.2kHz]/08. Taylor Swift - dorothea (Explicit).flac
-192:Taylor Swift/Taylor Swift - Midnights (3am Edition) (2022) [FLAC] [24B-48kHz]/05. Taylor Swift - You're On Your Own, Kid (Explicit).flac
-193:Taylor Swift/Taylor Swift - Lover (2019) [FLAC] [24B-44.1kHz]/03. Taylor Swift - Lover.flac
-194:Taylor Swift/Taylor Swift - Red (Taylor's Version) (2021) [FLAC] [24B-96kHz]/30. Taylor Swift - All Too Well (10 Minute Version) (Taylor's Version) (From The Vault) (Explicit).flac
-195:Taylor Swift/Taylor Swift - Fearless (Taylor's Version) (2021) [FLAC] [24B-96kHz]/26. Taylor Swift - Bye Bye Baby (Taylor’s Version) (From The Vault).flac
-196:Taylor Swift/Taylor Swift - Red (Taylor's Version) (2021) [FLAC] [24B-96kHz]/26. Taylor Swift - I Bet You Think About Me (Taylor's Version) (From The Vault) (Explicit).flac
-197:Taylor Swift/Taylor Swift - evermore (deluxe version) (2020) [FLAC] [24B-88.2kHz]/17. Taylor Swift - it’s time to go (bonus track) (Explicit).flac
-198:Taylor Swift/Taylor Swift - Red (Taylor's Version) (2021) [FLAC] [24B-96kHz]/07. Taylor Swift - I Almost Do (Taylor's Version) (Explicit).flac
-199:Taylor Swift/Taylor Swift - Speak Now (Taylor's Version) (2023) [FLAC] [24B-44.1kHz]/14. Taylor Swift - Long Live (Taylor's Version).flac
-200:Taylor Swift/Taylor Swift - Lover (2019) [FLAC] [24B-44.1kHz]/08. Taylor Swift - Paper Rings.flac
-201:Taylor Swift/Taylor Swift - Midnights (3am Edition) (2022) [FLAC] [24B-48kHz]/10. Taylor Swift - Labyrinth (Explicit).flac
-202:Taylor Swift/Taylor Swift - Lover (2019) [FLAC] [24B-44.1kHz]/13. Taylor Swift - False God.flac
-203:Taylor Swift/Taylor Swift - Red (Taylor's Version) (2021) [FLAC] [24B-96kHz]/28. Taylor Swift - Run (Taylor's Version) (From The Vault) (Explicit).flac
-204:Taylor Swift/Taylor Swift - Lover (2019) [FLAC] [24B-44.1kHz]/12. Taylor Swift - Soon You’ll Get Better.flac
-205:Taylor Swift/Taylor Swift - folklore (deluxe version - explicit) (2020) [FLAC] [24B-44.1kHz]/17. Taylor Swift - the lakes (bonus track) (Explicit).flac
-206:Taylor Swift/Taylor Swift - 1989 (Deluxe Edition) (2014) [FLAC] [24B-44.1kHz]/10. Taylor Swift - How You Get The Girl.flac
-207:Taylor Swift/Taylor Swift - Red (Taylor's Version) (2021) [FLAC] [24B-96kHz]/23. Taylor Swift - Nothing New (Taylor's Version) (From The Vault) (Explicit).flac
-208:Taylor Swift/Taylor Swift - Speak Now (Taylor's Version) (2023) [FLAC] [24B-44.1kHz]/19. Taylor Swift - I Can See You (Taylor’s Version) (From The Vault).flac
-209:Taylor Swift/Taylor Swift - Midnights (3am Edition) (2022) [FLAC] [24B-48kHz]/04. Taylor Swift - Snow On The Beach (Explicit).flac
-210:Taylor Swift/Taylor Swift - Red (Taylor's Version) (2021) [FLAC] [24B-96kHz]/14. Taylor Swift - Everything Has Changed (Taylor's Version) (Explicit).flac
-211:Taylor Swift/Taylor Swift - Midnights (3am Edition) (2022) [FLAC] [24B-48kHz]/14. Taylor Swift - The Great War (Explicit).flac
-212:Taylor Swift/Taylor Swift - Lover (2019) [FLAC] [24B-44.1kHz]/04. Taylor Swift - The Man.flac
-213:Taylor Swift/Taylor Swift - Red (Taylor's Version) (2021) [FLAC] [24B-96kHz]/19. Taylor Swift - Girl At Home (Taylor's Version) (Explicit).flac
-214:Taylor Swift/Taylor Swift - 1989 (Deluxe Edition) (2014) [FLAC] [24B-44.1kHz]/18. Taylor Swift - I Wish You Would (Voice Memo).flac
-215:Taylor Swift/Taylor Swift - evermore (deluxe version) (2020) [FLAC] [24B-88.2kHz]/04. Taylor Swift - ‘tis the damn season (Explicit).flac
-216:Taylor Swift/Taylor Swift - folklore (deluxe version - explicit) (2020) [FLAC] [24B-44.1kHz]/13. Taylor Swift - epiphany (Explicit).flac
-217:Taylor Swift/Taylor Swift - Speak Now (Taylor's Version) (2023) [FLAC] [24B-44.1kHz]/22. Taylor Swift - Timeless (Taylor’s Version) (From The Vault).flac
-218:Taylor Swift/Taylor Swift - Midnights (3am Edition) (2022) [FLAC] [24B-48kHz]/07. Taylor Swift - Question (Explicit).flac
-219:Taylor Swift/Taylor Swift - Midnights (3am Edition) (2022) [FLAC] [24B-48kHz]/17. Taylor Swift - High Infidelity (Explicit).flac
-220:Taylor Swift/Taylor Swift - Red (Taylor's Version) (2021) [FLAC] [24B-96kHz]/21. Taylor Swift - Ronan (Taylor's Version) (Explicit).flac
-221:Taylor Swift/Taylor Swift - Lover (2019) [FLAC] [24B-44.1kHz]/15. Taylor Swift - Afterglow.flac
-222:Taylor Swift/Taylor Swift - Speak Now (Taylor's Version) (2023) [FLAC] [24B-44.1kHz]/20. Taylor Swift - Castles Crumbling (Taylor’s Version) (From The Vault).flac
-223:Taylor Swift/Taylor Swift - Speak Now (Taylor's Version) (2023) [FLAC] [24B-44.1kHz]/01. Taylor Swift - Mine (Taylor's Version).flac
-224:Taylor Swift/Taylor Swift - Midnights (3am Edition) (2022) [FLAC] [24B-48kHz]/12. Taylor Swift - Sweet Nothing (Explicit).flac
-225:Taylor Swift/Taylor Swift - evermore (deluxe version) (2020) [FLAC] [24B-88.2kHz]/06. Taylor Swift - no body, no crime (Explicit).flac
-226:Taylor Swift/Taylor Swift - Speak Now (Taylor's Version) (2023) [FLAC] [24B-44.1kHz]/09. Taylor Swift - Enchanted (Taylor's Version).flac
-227:Taylor Swift/Taylor Swift - reputation (2017) [FLAC] [24B-44.1kHz]/10. Taylor Swift - King Of My Heart.flac
-228:Taylor Swift/Taylor Swift - Midnights (3am Edition) (2022) [FLAC] [24B-48kHz]/15. Taylor Swift - Bigger Than The Whole Sky (Explicit).flac
-229:Taylor Swift/Taylor Swift - Lover (2019) [FLAC] [24B-44.1kHz]/05. Taylor Swift - The Archer.flac
-230:Taylor Swift/Taylor Swift - Speak Now (Taylor's Version) (2023) [FLAC] [24B-44.1kHz]/13. Taylor Swift - Last Kiss (Taylor's Version).flac
-231:Taylor Swift/Taylor Swift - Red (Taylor's Version) (2021) [FLAC] [24B-96kHz]/17. Taylor Swift - The Moment I Knew (Taylor's Version) (Explicit).flac
-232:Taylor Swift/Taylor Swift - Speak Now (Taylor's Version) (2023) [FLAC] [24B-44.1kHz]/10. Taylor Swift - Better Than Revenge (Taylor's Version).flac
-233:Taylor Swift/Taylor Swift - reputation (2017) [FLAC] [24B-44.1kHz]/13. Taylor Swift - This Is Why We Can't Have Nice Things.flac
-234:Taylor Swift/Taylor Swift - evermore (deluxe version) (2020) [FLAC] [24B-88.2kHz]/12. Taylor Swift - long story short (Explicit).flac
-235:Taylor Swift/Taylor Swift - Speak Now (Taylor's Version) (2023) [FLAC] [24B-44.1kHz]/05. Taylor Swift - Dear John (Taylor's Version).flac
-236:Taylor Swift/Taylor Swift - Fearless (Taylor's Version) (2021) [FLAC] [24B-96kHz]/03. Taylor Swift - Love Story (Taylor’s Version).flac
-237:Taylor Swift/Taylor Swift - folklore (deluxe version - explicit) (2020) [FLAC] [24B-44.1kHz]/11. Taylor Swift - invisible string (Explicit).flac
-238:Taylor Swift/Taylor Swift - reputation (2017) [FLAC] [24B-44.1kHz]/06. Taylor Swift - Look What You Made Me Do.flac
-239:Taylor Swift/Taylor Swift - evermore (deluxe version) (2020) [FLAC] [24B-88.2kHz]/10. Taylor Swift - ivy (Explicit).flac
-240:Taylor Swift/Taylor Swift - Red (Taylor's Version) (2021) [FLAC] [24B-96kHz]/18. Taylor Swift - Come Back...Be Here (Taylor's Version) (Explicit).flac
-241:Taylor Swift/Taylor Swift - Fearless (Taylor's Version) (2021) [FLAC] [24B-96kHz]/06. Taylor Swift - You Belong With Me (Taylor’s Version).flac
-242:Taylor Swift/Taylor Swift - folklore (deluxe version - explicit) (2020) [FLAC] [24B-44.1kHz]/16. Taylor Swift - hoax (Explicit).flac
-243:Taylor Swift/Taylor Swift - folklore (deluxe version - explicit) (2020) [FLAC] [24B-44.1kHz]/08. Taylor Swift - august (Explicit).flac
-244:Taylor Swift/Taylor Swift - Fearless (Taylor's Version) (2021) [FLAC] [24B-96kHz]/23. Taylor Swift - We Were Happy (Taylor’s Version) (From The Vault).flac
-245:Taylor Swift/Taylor Swift - folklore (deluxe version - explicit) (2020) [FLAC] [24B-44.1kHz]/08. Taylor Swift - august (Explicit).flac
-246:Taylor Swift/Taylor Swift - Lover (2019) [FLAC] [24B-44.1kHz]/13. Taylor Swift - False God.flac
-247:Taylor Swift/Taylor Swift - 1989 (Deluxe Edition) (2014) [FLAC] [24B-44.1kHz]/05. Taylor Swift - All You Had To Do Was Stay.flac
-248:Taylor Swift/Taylor Swift - 1989 (Deluxe Edition) (2014) [FLAC] [24B-44.1kHz]/07. Taylor Swift - I Wish You Would.flac
-249:Taylor Swift/Taylor Swift - Midnights (3am Edition) (2022) [FLAC] [24B-48kHz]/19. Taylor Swift - Would've, Could've, Should've (Explicit).flac
-250:Taylor Swift/Taylor Swift - reputation (2017) [FLAC] [24B-44.1kHz]/05. Taylor Swift - Delicate.flac
-251:Taylor Swift/Taylor Swift - Lover (2019) [FLAC] [24B-44.1kHz]/10. Taylor Swift - Death By A Thousand Cuts.flac
-252:Taylor Swift/Taylor Swift - reputation (2017) [FLAC] [24B-44.1kHz]/13. Taylor Swift - This Is Why We Can't Have Nice Things.flac
-253:Taylor Swift/Taylor Swift - folklore (deluxe version - explicit) (2020) [FLAC] [24B-44.1kHz]/05. Taylor Swift - my tears ricochet (Explicit).flac
-254:Taylor Swift/Taylor Swift - Speak Now (Taylor's Version) (2023) [FLAC] [24B-44.1kHz]/07. Taylor Swift - The Story Of Us (Taylor's Version).flac
-255:Taylor Swift/Taylor Swift - 1989 (Deluxe Edition) (2014) [FLAC] [24B-44.1kHz]/19. Taylor Swift - Blank Space (Voice Memo).flac
-256:Taylor Swift/Taylor Swift - 1989 (Deluxe Edition) (2014) [FLAC] [24B-44.1kHz]/15. Taylor Swift - You Are In Love.flac
-257:Taylor Swift/Taylor Swift - Fearless (Taylor's Version) (2021) [FLAC] [24B-96kHz]/21. Taylor Swift - You All Over Me (Taylor’s Version) (From The Vault).flac
-258:Taylor Swift/Taylor Swift - Fearless (Taylor's Version) (2021) [FLAC] [24B-96kHz]/25. Taylor Swift - Don’t You (Taylor’s Version) (From The Vault).flac
-259:Taylor Swift/Taylor Swift - folklore (deluxe version - explicit) (2020) [FLAC] [24B-44.1kHz]/04. Taylor Swift - exile (Explicit).flac
-260:Taylor Swift/Taylor Swift - Midnights (3am Edition) (2022) [FLAC] [24B-48kHz]/15. Taylor Swift - Bigger Than The Whole Sky (Explicit).flac
-261:Taylor Swift/Taylor Swift - reputation (2017) [FLAC] [24B-44.1kHz]/12. Taylor Swift - Dress.flac
-262:Taylor Swift/Taylor Swift - folklore (deluxe version - explicit) (2020) [FLAC] [24B-44.1kHz]/06. Taylor Swift - mirrorball (Explicit).flac
-263:Taylor Swift/Taylor Swift - reputation (2017) [FLAC] [24B-44.1kHz]/14. Taylor Swift - Call It What You Want.flac
-264:Taylor Swift/Taylor Swift - Speak Now (Taylor's Version) (2023) [FLAC] [24B-44.1kHz]/04. Taylor Swift - Speak Now (Taylor's Version).flac
-265:Taylor Swift/Taylor Swift - Speak Now (Taylor's Version) (2023) [FLAC] [24B-44.1kHz]/11. Taylor Swift - Innocent (Taylor's Version).flac
-266:Taylor Swift/Taylor Swift - Red (Taylor's Version) (2021) [FLAC] [24B-96kHz]/10. Taylor Swift - The Last Time (Taylor's Version) (Explicit).flac
-267:Taylor Swift/Taylor Swift - 1989 (Deluxe Edition) (2014) [FLAC] [24B-44.1kHz]/14. Taylor Swift - Wonderland.flac
-268:Taylor Swift/Taylor Swift - Speak Now (Taylor's Version) (2023) [FLAC] [24B-44.1kHz]/19. Taylor Swift - I Can See You (Taylor’s Version) (From The Vault).flac
-269:Taylor Swift/Taylor Swift - Red (Taylor's Version) (2021) [FLAC] [24B-96kHz]/22. Taylor Swift - Better Man (Taylor's Version) (From The Vault) (Explicit).flac
-270:Taylor Swift/Taylor Swift - evermore (deluxe version) (2020) [FLAC] [24B-88.2kHz]/06. Taylor Swift - no body, no crime (Explicit).flac
-271:Taylor Swift/Taylor Swift - 1989 (Deluxe Edition) (2014) [FLAC] [24B-44.1kHz]/17. Taylor Swift - I Know Places (Voice Memo).flac
-272:Taylor Swift/Taylor Swift - Speak Now (Taylor's Version) (2023) [FLAC] [24B-44.1kHz]/21. Taylor Swift - Foolish One (Taylor’s Version) (From The Vault).flac
-273:Taylor Swift/Taylor Swift - Speak Now (Taylor's Version) (2023) [FLAC] [24B-44.1kHz]/20. Taylor Swift - Castles Crumbling (Taylor’s Version) (From The Vault).flac
-274:Taylor Swift/Taylor Swift - Red (Taylor's Version) (2021) [FLAC] [24B-96kHz]/04. Taylor Swift - I Knew You Were Trouble (Taylor's Version) (Explicit).flac
-275:Taylor Swift/Taylor Swift - Midnights (3am Edition) (2022) [FLAC] [24B-48kHz]/16. Taylor Swift - Paris (Explicit).flac
-276:Taylor Swift/Taylor Swift - Fearless (Taylor's Version) (2021) [FLAC] [24B-96kHz]/11. Taylor Swift - Forever & Always (Taylor’s Version).flac
-277:Taylor Swift/Taylor Swift - Speak Now (Taylor's Version) (2023) [FLAC] [24B-44.1kHz]/03. Taylor Swift - Back To December (Taylor's Version).flac
-278:Taylor Swift/Taylor Swift - Midnights (3am Edition) (2022) [FLAC] [24B-48kHz]/19. Taylor Swift - Would've, Could've, Should've (Explicit).flac
-279:Taylor Swift/Taylor Swift - 1989 (Deluxe Edition) (2014) [FLAC] [24B-44.1kHz]/07. Taylor Swift - I Wish You Would.flac
-280:Taylor Swift/Taylor Swift - Fearless (Taylor's Version) (2021) [FLAC] [24B-96kHz]/01. Taylor Swift - Fearless (Taylor’s Version).flac
-281:Taylor Swift/Taylor Swift - Speak Now (Taylor's Version) (2023) [FLAC] [24B-44.1kHz]/15. Taylor Swift - Ours (Taylor’s Version).flac
-282:Taylor Swift/Taylor Swift - 1989 (Deluxe Edition) (2014) [FLAC] [24B-44.1kHz]/01. Taylor Swift - Welcome To New York.flac
-283:Taylor Swift/Taylor Swift - Speak Now (Taylor's Version) (2023) [FLAC] [24B-44.1kHz]/16. Taylor Swift - Superman (Taylor’s Version).flac
-284:Taylor Swift/Taylor Swift - Fearless (Taylor's Version) (2021) [FLAC] [24B-96kHz]/13. Taylor Swift - Change (Taylor’s Version).flac
-285:Taylor Swift/Taylor Swift - Midnights (3am Edition) (2022) [FLAC] [24B-48kHz]/13. Taylor Swift - Mastermind (Explicit).flac
-286:Taylor Swift/Taylor Swift - Fearless (Taylor's Version) (2021) [FLAC] [24B-96kHz]/12. Taylor Swift - The Best Day (Taylor’s Version).flac
-287:Taylor Swift/Taylor Swift - Lover (2019) [FLAC] [24B-44.1kHz]/05. Taylor Swift - The Archer.flac
-288:Taylor Swift/Taylor Swift - 1989 (Deluxe Edition) (2014) [FLAC] [24B-44.1kHz]/06. Taylor Swift - Shake It Off.flac
-289:Taylor Swift/Taylor Swift - Fearless (Taylor's Version) (2021) [FLAC] [24B-96kHz]/02. Taylor Swift - Fifteen (Taylor’s Version).flac
-290:Taylor Swift/Taylor Swift - 1989 (Deluxe Edition) (2014) [FLAC] [24B-44.1kHz]/14. Taylor Swift - Wonderland.flac
-291:Taylor Swift/Taylor Swift - Midnights (3am Edition) (2022) [FLAC] [24B-48kHz]/18. Taylor Swift - Glitch (Explicit).flac
-292:Taylor Swift/Taylor Swift - 1989 (Deluxe Edition) (2014) [FLAC] [24B-44.1kHz]/03. Taylor Swift - Style.flac
-293:Taylor Swift/Taylor Swift - Midnights (3am Edition) (2022) [FLAC] [24B-48kHz]/03. Taylor Swift - Anti-Hero (Explicit).flac
-294:Taylor Swift/Taylor Swift - Lover (2019) [FLAC] [24B-44.1kHz]/10. Taylor Swift - Death By A Thousand Cuts.flac
-295:Taylor Swift/Taylor Swift - Red (Taylor's Version) (2021) [FLAC] [24B-96kHz]/24. Taylor Swift - Babe (Taylor's Version) (From The Vault) (Explicit).flac
-296:Taylor Swift/Taylor Swift - Fearless (Taylor's Version) (2021) [FLAC] [24B-96kHz]/02. Taylor Swift - Fifteen (Taylor’s Version).flac
-297:Taylor Swift/Taylor Swift - Red (Taylor's Version) (2021) [FLAC] [24B-96kHz]/24. Taylor Swift - Babe (Taylor's Version) (From The Vault) (Explicit).flac
-298:Taylor Swift/Taylor Swift - Red (Taylor's Version) (2021) [FLAC] [24B-96kHz]/08. Taylor Swift - We Are Never Ever Getting Back Together (Taylor's Version) (Explicit).flac
-299:Taylor Swift/Taylor Swift - Fearless (Taylor's Version) (2021) [FLAC] [24B-96kHz]/20. Taylor Swift - Today Was A Fairytale (Taylor’s Version).flac
-300:Taylor Swift/Taylor Swift - evermore (deluxe version) (2020) [FLAC] [24B-88.2kHz]/02. Taylor Swift - champagne problems (Explicit).flac
-301:Taylor Swift/Taylor Swift - Midnights (3am Edition) (2022) [FLAC] [24B-48kHz]/01. Taylor Swift - Lavender Haze (Explicit).flac
-302:Taylor Swift/Taylor Swift - folklore (deluxe version - explicit) (2020) [FLAC] [24B-44.1kHz]/10. Taylor Swift - illicit affairs (Explicit).flac
-303:Taylor Swift/Taylor Swift - folklore (deluxe version - explicit) (2020) [FLAC] [24B-44.1kHz]/04. Taylor Swift - exile (Explicit).flac
-304:Taylor Swift/Taylor Swift - Red (Taylor's Version) (2021) [FLAC] [24B-96kHz]/12. Taylor Swift - Sad Beautiful Tragic (Taylor's Version) (Explicit).flac
-305:Taylor Swift/Taylor Swift - Speak Now (Taylor's Version) (2023) [FLAC] [24B-44.1kHz]/05. Taylor Swift - Dear John (Taylor's Version).flac
-306:Taylor Swift/Taylor Swift - Lover (2019) [FLAC] [24B-44.1kHz]/06. Taylor Swift - I Think He Knows.flac
-307:Taylor Swift/Taylor Swift - Red (Taylor's Version) (2021) [FLAC] [24B-96kHz]/12. Taylor Swift - Sad Beautiful Tragic (Taylor's Version) (Explicit).flac
-308:Taylor Swift/Taylor Swift - 1989 (Deluxe Edition) (2014) [FLAC] [24B-44.1kHz]/16. Taylor Swift - New Romantics.flac
-309:Taylor Swift/Taylor Swift - Fearless (Taylor's Version) (2021) [FLAC] [24B-96kHz]/04. Taylor Swift - Hey Stephen (Taylor’s Version).flac
-310:Taylor Swift/Taylor Swift - Fearless (Taylor's Version) (2021) [FLAC] [24B-96kHz]/16. Taylor Swift - Forever & Always (Piano Version) (Taylor’s Version).flac
-311:Taylor Swift/Taylor Swift - Speak Now (Taylor's Version) (2023) [FLAC] [24B-44.1kHz]/02. Taylor Swift - Sparks Fly (Taylor’s Version).flac
-312:Taylor Swift/Taylor Swift - Speak Now (Taylor's Version) (2023) [FLAC] [24B-44.1kHz]/12. Taylor Swift - Haunted (Taylor's Version).flac
-313:Taylor Swift/Taylor Swift - reputation (2017) [FLAC] [24B-44.1kHz]/09. Taylor Swift - Getaway Car.flac
+124:Taylor Swift/Taylor Swift - Speak Now (Taylor's Version) (2023) [FLAC] [24B-44.1kHz]/09. Taylor Swift - Enchanted (Taylor's Version).flac
+125:Taylor Swift/Taylor Swift - Fearless (Taylor's Version) (2021) [FLAC] [24B-96kHz]/02. Taylor Swift - Fifteen (Taylor’s Version).flac
+126:Taylor Swift/Taylor Swift - folklore (deluxe version - explicit) (2020) [FLAC] [24B-44.1kHz]/08. Taylor Swift - august (Explicit).flac
+127:Taylor Swift/Taylor Swift - Red (Taylor's Version) (2021) [FLAC] [24B-96kHz]/04. Taylor Swift - I Knew You Were Trouble (Taylor's Version) (Explicit).flac
+128:Taylor Swift/Taylor Swift - Red (Taylor's Version) (2021) [FLAC] [24B-96kHz]/02. Taylor Swift - Red (Taylor's Version) (Explicit).flac
+129:Taylor Swift/Taylor Swift - Fearless (Taylor's Version) (2021) [FLAC] [24B-96kHz]/18. Taylor Swift - Superstar (Taylor’s Version).flac
+130:Taylor Swift/Taylor Swift - Speak Now (Taylor's Version) (2023) [FLAC] [24B-44.1kHz]/05. Taylor Swift - Dear John (Taylor's Version).flac
+131:Taylor Swift/Taylor Swift - Fearless (Taylor's Version) (2021) [FLAC] [24B-96kHz]/06. Taylor Swift - You Belong With Me (Taylor’s Version).flac
+132:Taylor Swift/Taylor Swift - Fearless (Taylor's Version) (2021) [FLAC] [24B-96kHz]/11. Taylor Swift - Forever & Always (Taylor’s Version).flac
+133:Taylor Swift/Taylor Swift - evermore (deluxe version) (2020) [FLAC] [24B-88.2kHz]/16. Taylor Swift - right where you left me (bonus track) (Explicit).flac
+134:Taylor Swift/Taylor Swift - Red (Taylor's Version) (2021) [FLAC] [24B-96kHz]/04. Taylor Swift - I Knew You Were Trouble (Taylor's Version) (Explicit).flac
+135:Taylor Swift/Taylor Swift - 1989 (Deluxe Edition) (2014) [FLAC] [24B-44.1kHz]/18. Taylor Swift - I Wish You Would (Voice Memo).flac
+136:Taylor Swift/Taylor Swift - Red (Taylor's Version) (2021) [FLAC] [24B-96kHz]/12. Taylor Swift - Sad Beautiful Tragic (Taylor's Version) (Explicit).flac
+137:Taylor Swift/Taylor Swift - Fearless (Taylor's Version) (2021) [FLAC] [24B-96kHz]/04. Taylor Swift - Hey Stephen (Taylor’s Version).flac
+138:Taylor Swift/Taylor Swift - folklore (deluxe version - explicit) (2020) [FLAC] [24B-44.1kHz]/16. Taylor Swift - hoax (Explicit).flac
+139:Taylor Swift/Taylor Swift - reputation (2017) [FLAC] [24B-44.1kHz]/08. Taylor Swift - Gorgeous.flac
+140:Carly Rae Jepsen - Call Me Maybe (2012) [FLAC] [16B-44.1kHz]/01. Carly Rae Jepsen - Call Me Maybe.flac
+141:Taylor Swift/Taylor Swift - Lover (2019) [FLAC] [24B-44.1kHz]/18. Taylor Swift - Daylight.flac
+142:Taylor Swift/Taylor Swift - folklore (deluxe version - explicit) (2020) [FLAC] [24B-44.1kHz]/15. Taylor Swift - peace (Explicit).flac
+143:Taylor Swift/Taylor Swift - Fearless (Taylor's Version) (2021) [FLAC] [24B-96kHz]/18. Taylor Swift - Superstar (Taylor’s Version).flac
+144:Taylor Swift/Taylor Swift - evermore (deluxe version) (2020) [FLAC] [24B-88.2kHz]/09. Taylor Swift - coney island (Explicit).flac
+145:Taylor Swift/Taylor Swift - Speak Now (Taylor's Version) (2023) [FLAC] [24B-44.1kHz]/10. Taylor Swift - Better Than Revenge (Taylor's Version).flac
+146:Taylor Swift/Taylor Swift - evermore (deluxe version) (2020) [FLAC] [24B-88.2kHz]/01. Taylor Swift - willow (Explicit).flac
+147:Taylor Swift/Taylor Swift - reputation (2017) [FLAC] [24B-44.1kHz]/03. Taylor Swift - I Did Something Bad.flac
+148:Taylor Swift/Taylor Swift - evermore (deluxe version) (2020) [FLAC] [24B-88.2kHz]/04. Taylor Swift - ‘tis the damn season (Explicit).flac
+149:Taylor Swift/Taylor Swift - Lover (2019) [FLAC] [24B-44.1kHz]/08. Taylor Swift - Paper Rings.flac
+150:Taylor Swift/Taylor Swift - Red (Taylor's Version) (2021) [FLAC] [24B-96kHz]/06. Taylor Swift - 22 (Taylor's Version) (Explicit).flac
+151:Taylor Swift/Taylor Swift - reputation (2017) [FLAC] [24B-44.1kHz]/15. Taylor Swift - New Year’s Day.flac
+152:Taylor Swift/Taylor Swift - Fearless (Taylor's Version) (2021) [FLAC] [24B-96kHz]/14. Taylor Swift - Jump Then Fall (Taylor’s Version).flac
+153:Taylor Swift/Taylor Swift - 1989 (Deluxe Edition) (2014) [FLAC] [24B-44.1kHz]/03. Taylor Swift - Style.flac
+154:Taylor Swift/Taylor Swift - Midnights (3am Edition) (2022) [FLAC] [24B-48kHz]/20. Taylor Swift - Dear Reader (Explicit).flac
+155:Taylor Swift/Taylor Swift - Fearless (Taylor's Version) (2021) [FLAC] [24B-96kHz]/12. Taylor Swift - The Best Day (Taylor’s Version).flac
+156:Taylor Swift/Taylor Swift - Red (Taylor's Version) (2021) [FLAC] [24B-96kHz]/07. Taylor Swift - I Almost Do (Taylor's Version) (Explicit).flac
+157:Taylor Swift/Taylor Swift - Speak Now (Taylor's Version) (2023) [FLAC] [24B-44.1kHz]/22. Taylor Swift - Timeless (Taylor’s Version) (From The Vault).flac
+158:Taylor Swift/Taylor Swift - Fearless (Taylor's Version) (2021) [FLAC] [24B-96kHz]/20. Taylor Swift - Today Was A Fairytale (Taylor’s Version).flac
+159:Taylor Swift/Taylor Swift - Lover (2019) [FLAC] [24B-44.1kHz]/02. Taylor Swift - Cruel Summer.flac
+160:Taylor Swift/Taylor Swift - Red (Taylor's Version) (2021) [FLAC] [24B-96kHz]/11. Taylor Swift - Holy Ground (Taylor's Version) (Explicit).flac
+161:Taylor Swift/Taylor Swift - Speak Now (Taylor's Version) (2023) [FLAC] [24B-44.1kHz]/14. Taylor Swift - Long Live (Taylor's Version).flac
+162:Taylor Swift/Taylor Swift - Lover (2019) [FLAC] [24B-44.1kHz]/17. Taylor Swift - It’s Nice To Have A Friend.flac
+163:Taylor Swift/Taylor Swift - Midnights (3am Edition) (2022) [FLAC] [24B-48kHz]/02. Taylor Swift - Maroon (Explicit).flac
+164:Taylor Swift/Taylor Swift - Fearless (Taylor's Version) (2021) [FLAC] [24B-96kHz]/16. Taylor Swift - Forever & Always (Piano Version) (Taylor’s Version).flac
+165:Taylor Swift/Taylor Swift - reputation (2017) [FLAC] [24B-44.1kHz]/03. Taylor Swift - I Did Something Bad.flac
+166:Taylor Swift/Taylor Swift - evermore (deluxe version) (2020) [FLAC] [24B-88.2kHz]/08. Taylor Swift - dorothea (Explicit).flac
+167:Taylor Swift/Taylor Swift - Speak Now (Taylor's Version) (2023) [FLAC] [24B-44.1kHz]/19. Taylor Swift - I Can See You (Taylor’s Version) (From The Vault).flac
+168:Taylor Swift/Taylor Swift - Fearless (Taylor's Version) (2021) [FLAC] [24B-96kHz]/21. Taylor Swift - You All Over Me (Taylor’s Version) (From The Vault).flac
+169:Taylor Swift/Taylor Swift - reputation (2017) [FLAC] [24B-44.1kHz]/12. Taylor Swift - Dress.flac
+170:Taylor Swift/Taylor Swift - 1989 (Deluxe Edition) (2014) [FLAC] [24B-44.1kHz]/02. Taylor Swift - Blank Space.flac
+171:Taylor Swift/Taylor Swift - Midnights (3am Edition) (2022) [FLAC] [24B-48kHz]/04. Taylor Swift - Snow On The Beach (Explicit).flac
+172:Taylor Swift/Taylor Swift - Fearless (Taylor's Version) (2021) [FLAC] [24B-96kHz]/22. Taylor Swift - Mr. Perfectly Fine (Taylor’s Version) (From The Vault).flac
+173:Taylor Swift/Taylor Swift - Speak Now (Taylor's Version) (2023) [FLAC] [24B-44.1kHz]/17. Taylor Swift - Electric Touch (Taylor’s Version) (From The Vault).flac
+174:Taylor Swift/Taylor Swift - reputation (2017) [FLAC] [24B-44.1kHz]/13. Taylor Swift - This Is Why We Can't Have Nice Things.flac
+175:Taylor Swift/Taylor Swift - Fearless (Taylor's Version) (2021) [FLAC] [24B-96kHz]/05. Taylor Swift - White Horse (Taylor’s Version).flac
+176:Taylor Swift/Taylor Swift - Red (Taylor's Version) (2021) [FLAC] [24B-96kHz]/21. Taylor Swift - Ronan (Taylor's Version) (Explicit).flac
+177:Taylor Swift/Taylor Swift - Speak Now (Taylor's Version) (2023) [FLAC] [24B-44.1kHz]/07. Taylor Swift - The Story Of Us (Taylor's Version).flac
+178:Taylor Swift/Taylor Swift - Lover (2019) [FLAC] [24B-44.1kHz]/07. Taylor Swift - Miss Americana & The Heartbreak Prince.flac
+179:Taylor Swift/Taylor Swift - Red (Taylor's Version) (2021) [FLAC] [24B-96kHz]/10. Taylor Swift - The Last Time (Taylor's Version) (Explicit).flac
+180:Taylor Swift/Taylor Swift - Speak Now (Taylor's Version) (2023) [FLAC] [24B-44.1kHz]/04. Taylor Swift - Speak Now (Taylor's Version).flac
+181:Taylor Swift/Taylor Swift - evermore (deluxe version) (2020) [FLAC] [24B-88.2kHz]/07. Taylor Swift - happiness (Explicit).flac
+182:Taylor Swift/Taylor Swift - Lover (2019) [FLAC] [24B-44.1kHz]/04. Taylor Swift - The Man.flac
+183:Taylor Swift/Taylor Swift - Fearless (Taylor's Version) (2021) [FLAC] [24B-96kHz]/19. Taylor Swift - The Other Side Of The Door (Taylor’s Version).flac
+184:Taylor Swift/Taylor Swift - folklore (deluxe version - explicit) (2020) [FLAC] [24B-44.1kHz]/03. Taylor Swift - the last great american dynasty (Explicit).flac
+185:Taylor Swift/Taylor Swift - Fearless (Taylor's Version) (2021) [FLAC] [24B-96kHz]/02. Taylor Swift - Fifteen (Taylor’s Version).flac
+186:Taylor Swift/Taylor Swift - Red (Taylor's Version) (2021) [FLAC] [24B-96kHz]/30. Taylor Swift - All Too Well (10 Minute Version) (Taylor's Version) (From The Vault) (Explicit).flac
+187:Taylor Swift/Taylor Swift - Speak Now (Taylor's Version) (2023) [FLAC] [24B-44.1kHz]/08. Taylor Swift - Never Grow Up (Taylor's Version).flac
+188:Taylor Swift/Taylor Swift - Fearless (Taylor's Version) (2021) [FLAC] [24B-96kHz]/24. Taylor Swift - That’s When (Taylor’s Version) (From The Vault).flac
+189:Taylor Swift/Taylor Swift - 1989 (Deluxe Edition) (2014) [FLAC] [24B-44.1kHz]/15. Taylor Swift - You Are In Love.flac
+190:Taylor Swift/Taylor Swift - 1989 (Deluxe Edition) (2014) [FLAC] [24B-44.1kHz]/04. Taylor Swift - Out Of The Woods.flac
+191:Taylor Swift/Taylor Swift - evermore (deluxe version) (2020) [FLAC] [24B-88.2kHz]/05. Taylor Swift - tolerate it (Explicit).flac
+192:Taylor Swift/Taylor Swift - reputation (2017) [FLAC] [24B-44.1kHz]/01. Taylor Swift - ...Ready For It.flac
+193:Taylor Swift/Taylor Swift - Lover (2019) [FLAC] [24B-44.1kHz]/02. Taylor Swift - Cruel Summer.flac
+194:Taylor Swift/Taylor Swift - Red (Taylor's Version) (2021) [FLAC] [24B-96kHz]/03. Taylor Swift - Treacherous (Taylor's Version) (Explicit).flac
+195:Taylor Swift/Taylor Swift - Red (Taylor's Version) (2021) [FLAC] [24B-96kHz]/25. Taylor Swift - Message In A Bottle (Taylor's Version) (From The Vault) (Explicit).flac
+196:Taylor Swift/Taylor Swift - Midnights (3am Edition) (2022) [FLAC] [24B-48kHz]/18. Taylor Swift - Glitch (Explicit).flac
+197:Taylor Swift/Taylor Swift - reputation (2017) [FLAC] [24B-44.1kHz]/02. Taylor Swift - End Game.flac
+198:Taylor Swift/Taylor Swift - Speak Now (Taylor's Version) (2023) [FLAC] [24B-44.1kHz]/04. Taylor Swift - Speak Now (Taylor's Version).flac
+199:Taylor Swift/Taylor Swift - 1989 (Deluxe Edition) (2014) [FLAC] [24B-44.1kHz]/03. Taylor Swift - Style.flac
+200:Taylor Swift/Taylor Swift - reputation (2017) [FLAC] [24B-44.1kHz]/06. Taylor Swift - Look What You Made Me Do.flac
+201:Taylor Swift/Taylor Swift - folklore (deluxe version - explicit) (2020) [FLAC] [24B-44.1kHz]/17. Taylor Swift - the lakes (bonus track) (Explicit).flac
+202:Taylor Swift/Taylor Swift - Lover (2019) [FLAC] [24B-44.1kHz]/05. Taylor Swift - The Archer.flac
+203:Taylor Swift/Taylor Swift - folklore (deluxe version - explicit) (2020) [FLAC] [24B-44.1kHz]/11. Taylor Swift - invisible string (Explicit).flac
+204:Taylor Swift/Taylor Swift - Fearless (Taylor's Version) (2021) [FLAC] [24B-96kHz]/16. Taylor Swift - Forever & Always (Piano Version) (Taylor’s Version).flac
+205:Taylor Swift/Taylor Swift - Fearless (Taylor's Version) (2021) [FLAC] [24B-96kHz]/01. Taylor Swift - Fearless (Taylor’s Version).flac
+206:Taylor Swift/Taylor Swift - evermore (deluxe version) (2020) [FLAC] [24B-88.2kHz]/09. Taylor Swift - coney island (Explicit).flac
+207:Taylor Swift/Taylor Swift - folklore (deluxe version - explicit) (2020) [FLAC] [24B-44.1kHz]/05. Taylor Swift - my tears ricochet (Explicit).flac
+208:Taylor Swift/Taylor Swift - folklore (deluxe version - explicit) (2020) [FLAC] [24B-44.1kHz]/01. Taylor Swift - the 1 (Explicit).flac
+209:Taylor Swift/Taylor Swift - evermore (deluxe version) (2020) [FLAC] [24B-88.2kHz]/14. Taylor Swift - closure (Explicit).flac
+210:Taylor Swift/Taylor Swift - Red (Taylor's Version) (2021) [FLAC] [24B-96kHz]/08. Taylor Swift - We Are Never Ever Getting Back Together (Taylor's Version) (Explicit).flac
+211:Taylor Swift/Taylor Swift - Lover (2019) [FLAC] [24B-44.1kHz]/11. Taylor Swift - London Boy.flac
+212:Taylor Swift/Taylor Swift - Midnights (3am Edition) (2022) [FLAC] [24B-48kHz]/19. Taylor Swift - Would've, Could've, Should've (Explicit).flac
+213:Taylor Swift/Taylor Swift - 1989 (Deluxe Edition) (2014) [FLAC] [24B-44.1kHz]/17. Taylor Swift - I Know Places (Voice Memo).flac
+214:Taylor Swift/Taylor Swift - Red (Taylor's Version) (2021) [FLAC] [24B-96kHz]/19. Taylor Swift - Girl At Home (Taylor's Version) (Explicit).flac
+215:Taylor Swift/Taylor Swift - Speak Now (Taylor's Version) (2023) [FLAC] [24B-44.1kHz]/17. Taylor Swift - Electric Touch (Taylor’s Version) (From The Vault).flac
+216:Taylor Swift/Taylor Swift - Red (Taylor's Version) (2021) [FLAC] [24B-96kHz]/11. Taylor Swift - Holy Ground (Taylor's Version) (Explicit).flac
+217:Taylor Swift/Taylor Swift - folklore (deluxe version - explicit) (2020) [FLAC] [24B-44.1kHz]/11. Taylor Swift - invisible string (Explicit).flac
+218:Taylor Swift/Taylor Swift - reputation (2017) [FLAC] [24B-44.1kHz]/10. Taylor Swift - King Of My Heart.flac
+219:Taylor Swift/Taylor Swift - Fearless (Taylor's Version) (2021) [FLAC] [24B-96kHz]/09. Taylor Swift - You’re Not Sorry (Taylor’s Version).flac
+220:Taylor Swift/Taylor Swift - Red (Taylor's Version) (2021) [FLAC] [24B-96kHz]/05. Taylor Swift - All Too Well (Taylor's Version) (Explicit).flac
+221:Taylor Swift/Taylor Swift - Midnights (3am Edition) (2022) [FLAC] [24B-48kHz]/07. Taylor Swift - Question (Explicit).flac
+222:Taylor Swift/Taylor Swift - Fearless (Taylor's Version) (2021) [FLAC] [24B-96kHz]/26. Taylor Swift - Bye Bye Baby (Taylor’s Version) (From The Vault).flac
+223:Taylor Swift/Taylor Swift - Midnights (3am Edition) (2022) [FLAC] [24B-48kHz]/14. Taylor Swift - The Great War (Explicit).flac
+224:Taylor Swift/Taylor Swift - Lover (2019) [FLAC] [24B-44.1kHz]/16. Taylor Swift - ME!.flac
+225:Taylor Swift/Taylor Swift - Red (Taylor's Version) (2021) [FLAC] [24B-96kHz]/16. Taylor Swift - Begin Again (Taylor's Version) (Explicit).flac
+226:Taylor Swift/Taylor Swift - Fearless (Taylor's Version) (2021) [FLAC] [24B-96kHz]/14. Taylor Swift - Jump Then Fall (Taylor’s Version).flac
+227:Taylor Swift/Taylor Swift - Red (Taylor's Version) (2021) [FLAC] [24B-96kHz]/13. Taylor Swift - The Lucky One (Taylor's Version) (Explicit).flac
+228:Taylor Swift/Taylor Swift - 1989 (Deluxe Edition) (2014) [FLAC] [24B-44.1kHz]/04. Taylor Swift - Out Of The Woods.flac
+229:Taylor Swift/Taylor Swift - Red (Taylor's Version) (2021) [FLAC] [24B-96kHz]/14. Taylor Swift - Everything Has Changed (Taylor's Version) (Explicit).flac
+230:Taylor Swift/Taylor Swift - evermore (deluxe version) (2020) [FLAC] [24B-88.2kHz]/10. Taylor Swift - ivy (Explicit).flac
+231:Taylor Swift/Taylor Swift - 1989 (Deluxe Edition) (2014) [FLAC] [24B-44.1kHz]/19. Taylor Swift - Blank Space (Voice Memo).flac
+232:Taylor Swift/Taylor Swift - Red (Taylor's Version) (2021) [FLAC] [24B-96kHz]/09. Taylor Swift - Stay Stay Stay (Taylor's Version) (Explicit).flac
+233:Taylor Swift/Taylor Swift - 1989 (Deluxe Edition) (2014) [FLAC] [24B-44.1kHz]/02. Taylor Swift - Blank Space.flac
+234:Taylor Swift/Taylor Swift - evermore (deluxe version) (2020) [FLAC] [24B-88.2kHz]/17. Taylor Swift - it’s time to go (bonus track) (Explicit).flac
+235:Taylor Swift/Taylor Swift - Red (Taylor's Version) (2021) [FLAC] [24B-96kHz]/28. Taylor Swift - Run (Taylor's Version) (From The Vault) (Explicit).flac
+236:Taylor Swift/Taylor Swift - 1989 (Deluxe Edition) (2014) [FLAC] [24B-44.1kHz]/13. Taylor Swift - Clean.flac
+237:Taylor Swift/Taylor Swift - Red (Taylor's Version) (2021) [FLAC] [24B-96kHz]/28. Taylor Swift - Run (Taylor's Version) (From The Vault) (Explicit).flac
+238:Taylor Swift/Taylor Swift - Red (Taylor's Version) (2021) [FLAC] [24B-96kHz]/27. Taylor Swift - Forever Winter (Taylor's Version) (From The Vault) (Explicit).flac
+239:Taylor Swift/Taylor Swift - Midnights (3am Edition) (2022) [FLAC] [24B-48kHz]/09. Taylor Swift - Bejeweled (Explicit).flac
+240:Taylor Swift/Taylor Swift - reputation (2017) [FLAC] [24B-44.1kHz]/11. Taylor Swift - Dancing With Our Hands Tied.flac
+241:Taylor Swift/Taylor Swift - Midnights (3am Edition) (2022) [FLAC] [24B-48kHz]/06. Taylor Swift - Midnight Rain (Explicit).flac
+242:Taylor Swift/Taylor Swift - Fearless (Taylor's Version) (2021) [FLAC] [24B-96kHz]/10. Taylor Swift - The Way I Loved You (Taylor’s Version).flac
+243:Taylor Swift/Taylor Swift - Midnights (3am Edition) (2022) [FLAC] [24B-48kHz]/13. Taylor Swift - Mastermind (Explicit).flac
+244:Taylor Swift/Taylor Swift - folklore (deluxe version - explicit) (2020) [FLAC] [24B-44.1kHz]/05. Taylor Swift - my tears ricochet (Explicit).flac
+245:Taylor Swift/Taylor Swift - Speak Now (Taylor's Version) (2023) [FLAC] [24B-44.1kHz]/05. Taylor Swift - Dear John (Taylor's Version).flac
+246:Taylor Swift/Taylor Swift - evermore (deluxe version) (2020) [FLAC] [24B-88.2kHz]/04. Taylor Swift - ‘tis the damn season (Explicit).flac
+247:Taylor Swift/Taylor Swift - Red (Taylor's Version) (2021) [FLAC] [24B-96kHz]/20. Taylor Swift - State Of Grace (Acoustic Version) (Taylor's Version) (Explicit).flac
+248:Taylor Swift/Taylor Swift - Red (Taylor's Version) (2021) [FLAC] [24B-96kHz]/22. Taylor Swift - Better Man (Taylor's Version) (From The Vault) (Explicit).flac
+249:Taylor Swift/Taylor Swift - folklore (deluxe version - explicit) (2020) [FLAC] [24B-44.1kHz]/07. Taylor Swift - seven (Explicit).flac
+250:Taylor Swift/Taylor Swift - 1989 (Deluxe Edition) (2014) [FLAC] [24B-44.1kHz]/06. Taylor Swift - Shake It Off.flac
+251:Taylor Swift/Taylor Swift - Fearless (Taylor's Version) (2021) [FLAC] [24B-96kHz]/03. Taylor Swift - Love Story (Taylor’s Version).flac
+252:Taylor Swift/Taylor Swift - Fearless (Taylor's Version) (2021) [FLAC] [24B-96kHz]/23. Taylor Swift - We Were Happy (Taylor’s Version) (From The Vault).flac
+253:Taylor Swift/Taylor Swift - Red (Taylor's Version) (2021) [FLAC] [24B-96kHz]/17. Taylor Swift - The Moment I Knew (Taylor's Version) (Explicit).flac
+254:Taylor Swift/Taylor Swift - reputation (2017) [FLAC] [24B-44.1kHz]/07. Taylor Swift - So It Goes.flac
+255:Taylor Swift/Taylor Swift - evermore (deluxe version) (2020) [FLAC] [24B-88.2kHz]/07. Taylor Swift - happiness (Explicit).flac
+256:Taylor Swift/Taylor Swift - Speak Now (Taylor's Version) (2023) [FLAC] [24B-44.1kHz]/02. Taylor Swift - Sparks Fly (Taylor’s Version).flac
+257:Taylor Swift/Taylor Swift - reputation (2017) [FLAC] [24B-44.1kHz]/04. Taylor Swift - Don’t Blame Me.flac
+258:Taylor Swift/Taylor Swift - Fearless (Taylor's Version) (2021) [FLAC] [24B-96kHz]/13. Taylor Swift - Change (Taylor’s Version).flac
+259:Taylor Swift/Taylor Swift - Midnights (3am Edition) (2022) [FLAC] [24B-48kHz]/05. Taylor Swift - You're On Your Own, Kid (Explicit).flac
+260:Taylor Swift/Taylor Swift - folklore (deluxe version - explicit) (2020) [FLAC] [24B-44.1kHz]/17. Taylor Swift - the lakes (bonus track) (Explicit).flac
+261:Taylor Swift/Taylor Swift - evermore (deluxe version) (2020) [FLAC] [24B-88.2kHz]/12. Taylor Swift - long story short (Explicit).flac
+262:Taylor Swift/Taylor Swift - folklore (deluxe version - explicit) (2020) [FLAC] [24B-44.1kHz]/12. Taylor Swift - mad woman (Explicit).flac
+263:Taylor Swift/Taylor Swift - Speak Now (Taylor's Version) (2023) [FLAC] [24B-44.1kHz]/02. Taylor Swift - Sparks Fly (Taylor’s Version).flac
+264:Taylor Swift/Taylor Swift - Lover (2019) [FLAC] [24B-44.1kHz]/03. Taylor Swift - Lover.flac
+265:Taylor Swift/Taylor Swift - Speak Now (Taylor's Version) (2023) [FLAC] [24B-44.1kHz]/16. Taylor Swift - Superman (Taylor’s Version).flac
+266:Taylor Swift/Taylor Swift - Lover (2019) [FLAC] [24B-44.1kHz]/14. Taylor Swift - You Need To Calm Down.flac
+267:Taylor Swift/Taylor Swift - evermore (deluxe version) (2020) [FLAC] [24B-88.2kHz]/17. Taylor Swift - it’s time to go (bonus track) (Explicit).flac
+268:Taylor Swift/Taylor Swift - Midnights (3am Edition) (2022) [FLAC] [24B-48kHz]/09. Taylor Swift - Bejeweled (Explicit).flac
+269:Taylor Swift/Taylor Swift - Speak Now (Taylor's Version) (2023) [FLAC] [24B-44.1kHz]/13. Taylor Swift - Last Kiss (Taylor's Version).flac
+270:Taylor Swift/Taylor Swift - Red (Taylor's Version) (2021) [FLAC] [24B-96kHz]/12. Taylor Swift - Sad Beautiful Tragic (Taylor's Version) (Explicit).flac
+271:Taylor Swift/Taylor Swift - Speak Now (Taylor's Version) (2023) [FLAC] [24B-44.1kHz]/07. Taylor Swift - The Story Of Us (Taylor's Version).flac
+272:Taylor Swift/Taylor Swift - Red (Taylor's Version) (2021) [FLAC] [24B-96kHz]/22. Taylor Swift - Better Man (Taylor's Version) (From The Vault) (Explicit).flac
+273:Taylor Swift/Taylor Swift - reputation (2017) [FLAC] [24B-44.1kHz]/12. Taylor Swift - Dress.flac
+274:Taylor Swift/Taylor Swift - Red (Taylor's Version) (2021) [FLAC] [24B-96kHz]/02. Taylor Swift - Red (Taylor's Version) (Explicit).flac
+275:Taylor Swift/Taylor Swift - 1989 (Deluxe Edition) (2014) [FLAC] [24B-44.1kHz]/01. Taylor Swift - Welcome To New York.flac
+276:Taylor Swift/Taylor Swift - 1989 (Deluxe Edition) (2014) [FLAC] [24B-44.1kHz]/08. Taylor Swift - Bad Blood.flac
+277:Taylor Swift/Taylor Swift - Lover (2019) [FLAC] [24B-44.1kHz]/15. Taylor Swift - Afterglow.flac
+278:Taylor Swift/Taylor Swift - Speak Now (Taylor's Version) (2023) [FLAC] [24B-44.1kHz]/09. Taylor Swift - Enchanted (Taylor's Version).flac
+279:Taylor Swift/Taylor Swift - folklore (deluxe version - explicit) (2020) [FLAC] [24B-44.1kHz]/09. Taylor Swift - this is me trying (Explicit).flac
+280:Taylor Swift/Taylor Swift - Lover (2019) [FLAC] [24B-44.1kHz]/09. Taylor Swift - Cornelia Street.flac
+281:Taylor Swift/Taylor Swift - 1989 (Deluxe Edition) (2014) [FLAC] [24B-44.1kHz]/07. Taylor Swift - I Wish You Would.flac
+282:Taylor Swift/Taylor Swift - Red (Taylor's Version) (2021) [FLAC] [24B-96kHz]/10. Taylor Swift - The Last Time (Taylor's Version) (Explicit).flac
+283:Taylor Swift/Taylor Swift - Red (Taylor's Version) (2021) [FLAC] [24B-96kHz]/16. Taylor Swift - Begin Again (Taylor's Version) (Explicit).flac
+284:Taylor Swift/Taylor Swift - reputation (2017) [FLAC] [24B-44.1kHz]/08. Taylor Swift - Gorgeous.flac
+285:Taylor Swift/Taylor Swift - Fearless (Taylor's Version) (2021) [FLAC] [24B-96kHz]/10. Taylor Swift - The Way I Loved You (Taylor’s Version).flac
+286:Taylor Swift/Taylor Swift - Lover (2019) [FLAC] [24B-44.1kHz]/03. Taylor Swift - Lover.flac
+287:Taylor Swift/Taylor Swift - Fearless (Taylor's Version) (2021) [FLAC] [24B-96kHz]/13. Taylor Swift - Change (Taylor’s Version).flac
+288:Taylor Swift/Taylor Swift - reputation (2017) [FLAC] [24B-44.1kHz]/13. Taylor Swift - This Is Why We Can't Have Nice Things.flac
+289:Taylor Swift/Taylor Swift - folklore (deluxe version - explicit) (2020) [FLAC] [24B-44.1kHz]/07. Taylor Swift - seven (Explicit).flac
+290:Taylor Swift/Taylor Swift - folklore (deluxe version - explicit) (2020) [FLAC] [24B-44.1kHz]/16. Taylor Swift - hoax (Explicit).flac
+291:Taylor Swift/Taylor Swift - reputation (2017) [FLAC] [24B-44.1kHz]/15. Taylor Swift - New Year’s Day.flac
+292:Taylor Swift/Taylor Swift - 1989 (Deluxe Edition) (2014) [FLAC] [24B-44.1kHz]/16. Taylor Swift - New Romantics.flac
+293:Taylor Swift/Taylor Swift - evermore (deluxe version) (2020) [FLAC] [24B-88.2kHz]/16. Taylor Swift - right where you left me (bonus track) (Explicit).flac
+294:Taylor Swift/Taylor Swift - folklore (deluxe version - explicit) (2020) [FLAC] [24B-44.1kHz]/08. Taylor Swift - august (Explicit).flac
+295:Taylor Swift/Taylor Swift - Red (Taylor's Version) (2021) [FLAC] [24B-96kHz]/20. Taylor Swift - State Of Grace (Acoustic Version) (Taylor's Version) (Explicit).flac
+296:Taylor Swift/Taylor Swift - Red (Taylor's Version) (2021) [FLAC] [24B-96kHz]/25. Taylor Swift - Message In A Bottle (Taylor's Version) (From The Vault) (Explicit).flac
+297:Taylor Swift/Taylor Swift - Midnights (3am Edition) (2022) [FLAC] [24B-48kHz]/17. Taylor Swift - High Infidelity (Explicit).flac
+298:Taylor Swift/Taylor Swift - Speak Now (Taylor's Version) (2023) [FLAC] [24B-44.1kHz]/14. Taylor Swift - Long Live (Taylor's Version).flac
+299:Taylor Swift/Taylor Swift - Midnights (3am Edition) (2022) [FLAC] [24B-48kHz]/14. Taylor Swift - The Great War (Explicit).flac
+300:Taylor Swift/Taylor Swift - Fearless (Taylor's Version) (2021) [FLAC] [24B-96kHz]/23. Taylor Swift - We Were Happy (Taylor’s Version) (From The Vault).flac
+301:Taylor Swift/Taylor Swift - Fearless (Taylor's Version) (2021) [FLAC] [24B-96kHz]/15. Taylor Swift - Untouchable (Taylor’s Version).flac
+302:Taylor Swift/Taylor Swift - Midnights (3am Edition) (2022) [FLAC] [24B-48kHz]/08. Taylor Swift - Vigilante Shit (Explicit).flac
+303:Taylor Swift/Taylor Swift - Midnights (3am Edition) (2022) [FLAC] [24B-48kHz]/13. Taylor Swift - Mastermind (Explicit).flac
+304:Taylor Swift/Taylor Swift - Lover (2019) [FLAC] [24B-44.1kHz]/08. Taylor Swift - Paper Rings.flac
+305:Taylor Swift/Taylor Swift - evermore (deluxe version) (2020) [FLAC] [24B-88.2kHz]/05. Taylor Swift - tolerate it (Explicit).flac
+306:Taylor Swift/Taylor Swift - Midnights (3am Edition) (2022) [FLAC] [24B-48kHz]/01. Taylor Swift - Lavender Haze (Explicit).flac
+307:Taylor Swift/Taylor Swift - Fearless (Taylor's Version) (2021) [FLAC] [24B-96kHz]/21. Taylor Swift - You All Over Me (Taylor’s Version) (From The Vault).flac
+308:Taylor Swift/Taylor Swift - Lover (2019) [FLAC] [24B-44.1kHz]/13. Taylor Swift - False God.flac
+309:Taylor Swift/Taylor Swift - Midnights (3am Edition) (2022) [FLAC] [24B-48kHz]/03. Taylor Swift - Anti-Hero (Explicit).flac
+310:Taylor Swift/Taylor Swift - Speak Now (Taylor's Version) (2023) [FLAC] [24B-44.1kHz]/11. Taylor Swift - Innocent (Taylor's Version).flac
+311:Taylor Swift/Taylor Swift - evermore (deluxe version) (2020) [FLAC] [24B-88.2kHz]/02. Taylor Swift - champagne problems (Explicit).flac
+312:Taylor Swift/Taylor Swift - Midnights (3am Edition) (2022) [FLAC] [24B-48kHz]/18. Taylor Swift - Glitch (Explicit).flac
+313:Taylor Swift/Taylor Swift - Midnights (3am Edition) (2022) [FLAC] [24B-48kHz]/12. Taylor Swift - Sweet Nothing (Explicit).flac
 314:Taylor Swift/Taylor Swift - 1989 (Deluxe Edition) (2014) [FLAC] [24B-44.1kHz]/05. Taylor Swift - All You Had To Do Was Stay.flac
-315:Taylor Swift/Taylor Swift - Fearless (Taylor's Version) (2021) [FLAC] [24B-96kHz]/18. Taylor Swift - Superstar (Taylor’s Version).flac
-316:Taylor Swift/Taylor Swift - Red (Taylor's Version) (2021) [FLAC] [24B-96kHz]/16. Taylor Swift - Begin Again (Taylor's Version) (Explicit).flac
-317:Taylor Swift/Taylor Swift - Red (Taylor's Version) (2021) [FLAC] [24B-96kHz]/09. Taylor Swift - Stay Stay Stay (Taylor's Version) (Explicit).flac
-318:Taylor Swift/Taylor Swift - Lover (2019) [FLAC] [24B-44.1kHz]/15. Taylor Swift - Afterglow.flac
-319:Taylor Swift/Taylor Swift - Fearless (Taylor's Version) (2021) [FLAC] [24B-96kHz]/05. Taylor Swift - White Horse (Taylor’s Version).flac
-320:Taylor Swift/Taylor Swift - 1989 (Deluxe Edition) (2014) [FLAC] [24B-44.1kHz]/12. Taylor Swift - I Know Places.flac
-321:Taylor Swift/Taylor Swift - Fearless (Taylor's Version) (2021) [FLAC] [24B-96kHz]/14. Taylor Swift - Jump Then Fall (Taylor’s Version).flac
-322:Taylor Swift/Taylor Swift - folklore (deluxe version - explicit) (2020) [FLAC] [24B-44.1kHz]/01. Taylor Swift - the 1 (Explicit).flac
-323:Taylor Swift/Taylor Swift - Red (Taylor's Version) (2021) [FLAC] [24B-96kHz]/04. Taylor Swift - I Knew You Were Trouble (Taylor's Version) (Explicit).flac
-324:Taylor Swift/Taylor Swift - Midnights (3am Edition) (2022) [FLAC] [24B-48kHz]/16. Taylor Swift - Paris (Explicit).flac
-325:Taylor Swift/Taylor Swift - Speak Now (Taylor's Version) (2023) [FLAC] [24B-44.1kHz]/07. Taylor Swift - The Story Of Us (Taylor's Version).flac
-326:Taylor Swift/Taylor Swift - evermore (deluxe version) (2020) [FLAC] [24B-88.2kHz]/05. Taylor Swift - tolerate it (Explicit).flac
-327:Taylor Swift/Taylor Swift - reputation (2017) [FLAC] [24B-44.1kHz]/06. Taylor Swift - Look What You Made Me Do.flac
-328:Taylor Swift/Taylor Swift - Midnights (3am Edition) (2022) [FLAC] [24B-48kHz]/09. Taylor Swift - Bejeweled (Explicit).flac
-329:Taylor Swift/Taylor Swift - reputation (2017) [FLAC] [24B-44.1kHz]/03. Taylor Swift - I Did Something Bad.flac
-330:Taylor Swift/Taylor Swift - Fearless (Taylor's Version) (2021) [FLAC] [24B-96kHz]/08. Taylor Swift - Tell Me Why (Taylor’s Version).flac
-331:Taylor Swift/Taylor Swift - Fearless (Taylor's Version) (2021) [FLAC] [24B-96kHz]/25. Taylor Swift - Don’t You (Taylor’s Version) (From The Vault).flac
-332:Taylor Swift/Taylor Swift - Red (Taylor's Version) (2021) [FLAC] [24B-96kHz]/29. Taylor Swift - The Very First Night (Taylor's Version) (From The Vault) (Explicit).flac
-333:Taylor Swift/Taylor Swift - Lover (2019) [FLAC] [24B-44.1kHz]/14. Taylor Swift - You Need To Calm Down.flac
-334:Taylor Swift/Taylor Swift - reputation (2017) [FLAC] [24B-44.1kHz]/07. Taylor Swift - So It Goes.flac
-335:Taylor Swift/Taylor Swift - 1989 (Deluxe Edition) (2014) [FLAC] [24B-44.1kHz]/10. Taylor Swift - How You Get The Girl.flac
-336:Taylor Swift/Taylor Swift - Lover (2019) [FLAC] [24B-44.1kHz]/04. Taylor Swift - The Man.flac
-337:Taylor Swift/Taylor Swift - Lover (2019) [FLAC] [24B-44.1kHz]/12. Taylor Swift - Soon You’ll Get Better.flac
-338:Taylor Swift/Taylor Swift - Fearless (Taylor's Version) (2021) [FLAC] [24B-96kHz]/06. Taylor Swift - You Belong With Me (Taylor’s Version).flac
-339:Taylor Swift/Taylor Swift - evermore (deluxe version) (2020) [FLAC] [24B-88.2kHz]/17. Taylor Swift - it’s time to go (bonus track) (Explicit).flac
-340:Taylor Swift/Taylor Swift - folklore (deluxe version - explicit) (2020) [FLAC] [24B-44.1kHz]/09. Taylor Swift - this is me trying (Explicit).flac
-341:Taylor Swift/Taylor Swift - folklore (deluxe version - explicit) (2020) [FLAC] [24B-44.1kHz]/11. Taylor Swift - invisible string (Explicit).flac
-342:Taylor Swift/Taylor Swift - reputation (2017) [FLAC] [24B-44.1kHz]/01. Taylor Swift - ...Ready For It.flac
-343:Taylor Swift/Taylor Swift - folklore (deluxe version - explicit) (2020) [FLAC] [24B-44.1kHz]/14. Taylor Swift - betty (Explicit).flac
-344:Taylor Swift/Taylor Swift - Lover (2019) [FLAC] [24B-44.1kHz]/11. Taylor Swift - London Boy.flac
-345:Taylor Swift/Taylor Swift - Red (Taylor's Version) (2021) [FLAC] [24B-96kHz]/17. Taylor Swift - The Moment I Knew (Taylor's Version) (Explicit).flac
-346:Taylor Swift/Taylor Swift - Lover (2019) [FLAC] [24B-44.1kHz]/14. Taylor Swift - You Need To Calm Down.flac
-347:Taylor Swift/Taylor Swift - reputation (2017) [FLAC] [24B-44.1kHz]/12. Taylor Swift - Dress.flac
-348:Taylor Swift/Taylor Swift - 1989 (Deluxe Edition) (2014) [FLAC] [24B-44.1kHz]/11. Taylor Swift - This Love.flac
-349:Taylor Swift/Taylor Swift - Midnights (3am Edition) (2022) [FLAC] [24B-48kHz]/02. Taylor Swift - Maroon (Explicit).flac
-350:Taylor Swift/Taylor Swift - Speak Now (Taylor's Version) (2023) [FLAC] [24B-44.1kHz]/10. Taylor Swift - Better Than Revenge (Taylor's Version).flac
-351:Taylor Swift/Taylor Swift - Speak Now (Taylor's Version) (2023) [FLAC] [24B-44.1kHz]/22. Taylor Swift - Timeless (Taylor’s Version) (From The Vault).flac
-352:Taylor Swift/Taylor Swift - evermore (deluxe version) (2020) [FLAC] [24B-88.2kHz]/09. Taylor Swift - coney island (Explicit).flac
-353:Taylor Swift/Taylor Swift - reputation (2017) [FLAC] [24B-44.1kHz]/15. Taylor Swift - New Year’s Day.flac
-354:Taylor Swift/Taylor Swift - 1989 (Deluxe Edition) (2014) [FLAC] [24B-44.1kHz]/08. Taylor Swift - Bad Blood.flac
-355:Taylor Swift/Taylor Swift - Speak Now (Taylor's Version) (2023) [FLAC] [24B-44.1kHz]/13. Taylor Swift - Last Kiss (Taylor's Version).flac
-356:Taylor Swift/Taylor Swift - 1989 (Deluxe Edition) (2014) [FLAC] [24B-44.1kHz]/15. Taylor Swift - You Are In Love.flac
-357:Taylor Swift/Taylor Swift - 1989 (Deluxe Edition) (2014) [FLAC] [24B-44.1kHz]/16. Taylor Swift - New Romantics.flac
-358:Taylor Swift/Taylor Swift - evermore (deluxe version) (2020) [FLAC] [24B-88.2kHz]/07. Taylor Swift - happiness (Explicit).flac
-359:Taylor Swift/Taylor Swift - Red (Taylor's Version) (2021) [FLAC] [24B-96kHz]/20. Taylor Swift - State Of Grace (Acoustic Version) (Taylor's Version) (Explicit).flac
-360:Taylor Swift/Taylor Swift - Fearless (Taylor's Version) (2021) [FLAC] [24B-96kHz]/19. Taylor Swift - The Other Side Of The Door (Taylor’s Version).flac
-361:Taylor Swift/Taylor Swift - reputation (2017) [FLAC] [24B-44.1kHz]/11. Taylor Swift - Dancing With Our Hands Tied.flac
-362:Taylor Swift/Taylor Swift - 1989 (Deluxe Edition) (2014) [FLAC] [24B-44.1kHz]/02. Taylor Swift - Blank Space.flac
-363:Taylor Swift/Taylor Swift - Fearless (Taylor's Version) (2021) [FLAC] [24B-96kHz]/09. Taylor Swift - You’re Not Sorry (Taylor’s Version).flac
-364:Taylor Swift/Taylor Swift - Red (Taylor's Version) (2021) [FLAC] [24B-96kHz]/13. Taylor Swift - The Lucky One (Taylor's Version) (Explicit).flac
-365:Taylor Swift/Taylor Swift - Lover (2019) [FLAC] [24B-44.1kHz]/16. Taylor Swift - ME!.flac
-366:Taylor Swift/Taylor Swift - Speak Now (Taylor's Version) (2023) [FLAC] [24B-44.1kHz]/03. Taylor Swift - Back To December (Taylor's Version).flac
-367:Taylor Swift/Taylor Swift - Fearless (Taylor's Version) (2021) [FLAC] [24B-96kHz]/05. Taylor Swift - White Horse (Taylor’s Version).flac
+315:Taylor Swift/Taylor Swift - folklore (deluxe version - explicit) (2020) [FLAC] [24B-44.1kHz]/03. Taylor Swift - the last great american dynasty (Explicit).flac
+316:Taylor Swift/Taylor Swift - Red (Taylor's Version) (2021) [FLAC] [24B-96kHz]/23. Taylor Swift - Nothing New (Taylor's Version) (From The Vault) (Explicit).flac
+317:Taylor Swift/Taylor Swift - Midnights (3am Edition) (2022) [FLAC] [24B-48kHz]/06. Taylor Swift - Midnight Rain (Explicit).flac
+318:Taylor Swift/Taylor Swift - Lover (2019) [FLAC] [24B-44.1kHz]/05. Taylor Swift - The Archer.flac
+319:Taylor Swift/Taylor Swift - Speak Now (Taylor's Version) (2023) [FLAC] [24B-44.1kHz]/06. Taylor Swift - Mean (Taylor's Version).flac
+320:Taylor Swift/Taylor Swift - folklore (deluxe version - explicit) (2020) [FLAC] [24B-44.1kHz]/12. Taylor Swift - mad woman (Explicit).flac
+321:Taylor Swift/Taylor Swift - Lover (2019) [FLAC] [24B-44.1kHz]/12. Taylor Swift - Soon You’ll Get Better.flac
+322:Taylor Swift/Taylor Swift - 1989 (Deluxe Edition) (2014) [FLAC] [24B-44.1kHz]/01. Taylor Swift - Welcome To New York.flac
+323:Taylor Swift/Taylor Swift - Red (Taylor's Version) (2021) [FLAC] [24B-96kHz]/19. Taylor Swift - Girl At Home (Taylor's Version) (Explicit).flac
+324:Taylor Swift/Taylor Swift - Speak Now (Taylor's Version) (2023) [FLAC] [24B-44.1kHz]/12. Taylor Swift - Haunted (Taylor's Version).flac
+325:Taylor Swift/Taylor Swift - Fearless (Taylor's Version) (2021) [FLAC] [24B-96kHz]/04. Taylor Swift - Hey Stephen (Taylor’s Version).flac
+326:Taylor Swift/Taylor Swift - evermore (deluxe version) (2020) [FLAC] [24B-88.2kHz]/02. Taylor Swift - champagne problems (Explicit).flac
+327:Taylor Swift/Taylor Swift - Speak Now (Taylor's Version) (2023) [FLAC] [24B-44.1kHz]/16. Taylor Swift - Superman (Taylor’s Version).flac
+328:Taylor Swift/Taylor Swift - evermore (deluxe version) (2020) [FLAC] [24B-88.2kHz]/10. Taylor Swift - ivy (Explicit).flac
+329:Taylor Swift/Taylor Swift - Midnights (3am Edition) (2022) [FLAC] [24B-48kHz]/20. Taylor Swift - Dear Reader (Explicit).flac
+330:Taylor Swift/Taylor Swift - Speak Now (Taylor's Version) (2023) [FLAC] [24B-44.1kHz]/03. Taylor Swift - Back To December (Taylor's Version).flac
+331:Taylor Swift/Taylor Swift - Speak Now (Taylor's Version) (2023) [FLAC] [24B-44.1kHz]/20. Taylor Swift - Castles Crumbling (Taylor’s Version) (From The Vault).flac
+332:Taylor Swift/Taylor Swift - reputation (2017) [FLAC] [24B-44.1kHz]/10. Taylor Swift - King Of My Heart.flac
+333:Taylor Swift/Taylor Swift - Fearless (Taylor's Version) (2021) [FLAC] [24B-96kHz]/17. Taylor Swift - Come In With The Rain (Taylor’s Version).flac
+334:Taylor Swift/Taylor Swift - Fearless (Taylor's Version) (2021) [FLAC] [24B-96kHz]/25. Taylor Swift - Don’t You (Taylor’s Version) (From The Vault).flac
+335:Taylor Swift/Taylor Swift - Midnights (3am Edition) (2022) [FLAC] [24B-48kHz]/08. Taylor Swift - Vigilante Shit (Explicit).flac
+336:Taylor Swift/Taylor Swift - Fearless (Taylor's Version) (2021) [FLAC] [24B-96kHz]/08. Taylor Swift - Tell Me Why (Taylor’s Version).flac
+337:Taylor Swift/Taylor Swift - Fearless (Taylor's Version) (2021) [FLAC] [24B-96kHz]/17. Taylor Swift - Come In With The Rain (Taylor’s Version).flac
+338:Taylor Swift/Taylor Swift - Red (Taylor's Version) (2021) [FLAC] [24B-96kHz]/18. Taylor Swift - Come Back...Be Here (Taylor's Version) (Explicit).flac
+339:Taylor Swift/Taylor Swift - Speak Now (Taylor's Version) (2023) [FLAC] [24B-44.1kHz]/20. Taylor Swift - Castles Crumbling (Taylor’s Version) (From The Vault).flac
+340:Taylor Swift/Taylor Swift - Fearless (Taylor's Version) (2021) [FLAC] [24B-96kHz]/07. Taylor Swift - Breathe (Taylor’s Version).flac
+341:Taylor Swift/Taylor Swift - Fearless (Taylor's Version) (2021) [FLAC] [24B-96kHz]/24. Taylor Swift - That’s When (Taylor’s Version) (From The Vault).flac
+342:Taylor Swift/Taylor Swift - 1989 (Deluxe Edition) (2014) [FLAC] [24B-44.1kHz]/17. Taylor Swift - I Know Places (Voice Memo).flac
+343:Taylor Swift/Taylor Swift - Fearless (Taylor's Version) (2021) [FLAC] [24B-96kHz]/07. Taylor Swift - Breathe (Taylor’s Version).flac
+344:Taylor Swift/Taylor Swift - Red (Taylor's Version) (2021) [FLAC] [24B-96kHz]/08. Taylor Swift - We Are Never Ever Getting Back Together (Taylor's Version) (Explicit).flac
+345:Taylor Swift/Taylor Swift - reputation (2017) [FLAC] [24B-44.1kHz]/04. Taylor Swift - Don’t Blame Me.flac
+346:Taylor Swift/Taylor Swift - evermore (deluxe version) (2020) [FLAC] [24B-88.2kHz]/15. Taylor Swift - evermore (Explicit).flac
+347:Taylor Swift/Taylor Swift - Fearless (Taylor's Version) (2021) [FLAC] [24B-96kHz]/11. Taylor Swift - Forever & Always (Taylor’s Version).flac
+348:Taylor Swift/Taylor Swift - folklore (deluxe version - explicit) (2020) [FLAC] [24B-44.1kHz]/13. Taylor Swift - epiphany (Explicit).flac
+349:Taylor Swift/Taylor Swift - Red (Taylor's Version) (2021) [FLAC] [24B-96kHz]/06. Taylor Swift - 22 (Taylor's Version) (Explicit).flac
+350:Taylor Swift/Taylor Swift - Speak Now (Taylor's Version) (2023) [FLAC] [24B-44.1kHz]/13. Taylor Swift - Last Kiss (Taylor's Version).flac
+351:Taylor Swift/Taylor Swift - folklore (deluxe version - explicit) (2020) [FLAC] [24B-44.1kHz]/15. Taylor Swift - peace (Explicit).flac
+352:Taylor Swift/Taylor Swift - Fearless (Taylor's Version) (2021) [FLAC] [24B-96kHz]/06. Taylor Swift - You Belong With Me (Taylor’s Version).flac
+353:Taylor Swift/Taylor Swift - reputation (2017) [FLAC] [24B-44.1kHz]/09. Taylor Swift - Getaway Car.flac
+354:Taylor Swift/Taylor Swift - Red (Taylor's Version) (2021) [FLAC] [24B-96kHz]/01. Taylor Swift - State Of Grace (Taylor's Version) (Explicit).flac
+355:Taylor Swift/Taylor Swift - Midnights (3am Edition) (2022) [FLAC] [24B-48kHz]/15. Taylor Swift - Bigger Than The Whole Sky (Explicit).flac
+356:Taylor Swift/Taylor Swift - Red (Taylor's Version) (2021) [FLAC] [24B-96kHz]/18. Taylor Swift - Come Back...Be Here (Taylor's Version) (Explicit).flac
+357:Taylor Swift/Taylor Swift - Lover (2019) [FLAC] [24B-44.1kHz]/01. Taylor Swift - I Forgot That You Existed.flac
+358:Taylor Swift/Taylor Swift - Lover (2019) [FLAC] [24B-44.1kHz]/04. Taylor Swift - The Man.flac
+359:Taylor Swift/Taylor Swift - Lover (2019) [FLAC] [24B-44.1kHz]/06. Taylor Swift - I Think He Knows.flac
+360:Taylor Swift/Taylor Swift - 1989 (Deluxe Edition) (2014) [FLAC] [24B-44.1kHz]/11. Taylor Swift - This Love.flac
+361:Taylor Swift/Taylor Swift - Lover (2019) [FLAC] [24B-44.1kHz]/09. Taylor Swift - Cornelia Street.flac
+362:Taylor Swift/Taylor Swift - Midnights (3am Edition) (2022) [FLAC] [24B-48kHz]/04. Taylor Swift - Snow On The Beach (Explicit).flac
+363:Taylor Swift/Taylor Swift - Speak Now (Taylor's Version) (2023) [FLAC] [24B-44.1kHz]/21. Taylor Swift - Foolish One (Taylor’s Version) (From The Vault).flac
+364:Taylor Swift/Taylor Swift - Speak Now (Taylor's Version) (2023) [FLAC] [24B-44.1kHz]/06. Taylor Swift - Mean (Taylor's Version).flac
+365:Taylor Swift/Taylor Swift - Fearless (Taylor's Version) (2021) [FLAC] [24B-96kHz]/20. Taylor Swift - Today Was A Fairytale (Taylor’s Version).flac
+366:Taylor Swift/Taylor Swift - Red (Taylor's Version) (2021) [FLAC] [24B-96kHz]/15. Taylor Swift - Starlight (Taylor's Version) (Explicit).flac
+367:Taylor Swift/Taylor Swift - Red (Taylor's Version) (2021) [FLAC] [24B-96kHz]/05. Taylor Swift - All Too Well (Taylor's Version) (Explicit).flac
+368:Taylor Swift/Taylor Swift - 1989 (Deluxe Edition) (2014) [FLAC] [24B-44.1kHz]/08. Taylor Swift - Bad Blood.flac
+369:Avril Lavigne/Avril Lavigne - Let Go  (20th Anniversary Edition) (2002) [FLAC] [24B-48kHz]/01. Avril Lavigne - Losing Grip.flac
+370:Avril Lavigne/Avril Lavigne - Let Go  (20th Anniversary Edition) (2002) [FLAC] [24B-48kHz]/02. Avril Lavigne - Complicated.flac
+371:Avril Lavigne/Avril Lavigne - Let Go  (20th Anniversary Edition) (2002) [FLAC] [24B-48kHz]/03. Avril Lavigne - Sk8er Boi.flac
+372:Avril Lavigne/Avril Lavigne - Let Go  (20th Anniversary Edition) (2002) [FLAC] [24B-48kHz]/04. Avril Lavigne - I'm with You.flac
+373:Avril Lavigne/Avril Lavigne - Let Go  (20th Anniversary Edition) (2002) [FLAC] [24B-48kHz]/05. Avril Lavigne - Mobile.flac
+374:Avril Lavigne/Avril Lavigne - Let Go  (20th Anniversary Edition) (2002) [FLAC] [24B-48kHz]/06. Avril Lavigne - Unwanted.flac
+375:Avril Lavigne/Avril Lavigne - Let Go  (20th Anniversary Edition) (2002) [FLAC] [24B-48kHz]/07. Avril Lavigne - Tomorrow.flac
+376:Avril Lavigne/Avril Lavigne - Let Go  (20th Anniversary Edition) (2002) [FLAC] [24B-48kHz]/08. Avril Lavigne - Anything but Ordinary.flac
+377:Avril Lavigne/Avril Lavigne - Let Go  (20th Anniversary Edition) (2002) [FLAC] [24B-48kHz]/09. Avril Lavigne - Things I'll Never Say.flac
+378:Avril Lavigne/Avril Lavigne - Let Go  (20th Anniversary Edition) (2002) [FLAC] [24B-48kHz]/10. Avril Lavigne - My World.flac
+379:Avril Lavigne/Avril Lavigne - Let Go  (20th Anniversary Edition) (2002) [FLAC] [24B-48kHz]/11. Avril Lavigne - Nobody's Fool.flac
+380:Avril Lavigne/Avril Lavigne - Let Go  (20th Anniversary Edition) (2002) [FLAC] [24B-48kHz]/12. Avril Lavigne - Too Much to Ask.flac
+381:Avril Lavigne/Avril Lavigne - Let Go  (20th Anniversary Edition) (2002) [FLAC] [24B-48kHz]/13. Avril Lavigne - Naked.flac
+382:Avril Lavigne/Avril Lavigne - Let Go  (20th Anniversary Edition) (2002) [FLAC] [24B-48kHz]/14. Avril Lavigne - Why.flac
+383:Avril Lavigne/Avril Lavigne - Let Go  (20th Anniversary Edition) (2002) [FLAC] [24B-48kHz]/15. Avril Lavigne - Get Over It.flac
+384:Avril Lavigne/Avril Lavigne - Let Go  (20th Anniversary Edition) (2002) [FLAC] [24B-48kHz]/16. Avril Lavigne - Breakaway.flac
+385:Avril Lavigne/Avril Lavigne - Let Go  (20th Anniversary Edition) (2002) [FLAC] [24B-48kHz]/17. Avril Lavigne - Falling Down (from the Sweet Home Alabama Original Soundtrack).flac
+386:Avril Lavigne/Avril Lavigne - Let Go  (20th Anniversary Edition) (2002) [FLAC] [24B-48kHz]/18. Avril Lavigne - I Don't Give (from the American Wedding Original Soundtrack).flac
+387:Avril Lavigne/Avril Lavigne - Let Go  (20th Anniversary Edition) (2002) [FLAC] [24B-48kHz]/19. Avril Lavigne - Make Up.flac
+388:Avril Lavigne/Avril Lavigne - Love Sux  (Deluxe) (2022) [FLAC] [24B-48kHz]/01. Avril Lavigne - Cannonball (Explicit).flac
+389:Avril Lavigne/Avril Lavigne - Love Sux  (Deluxe) (2022) [FLAC] [24B-48kHz]/02. Avril Lavigne - Bois Lie (feat. Machine Gun Kelly) (Explicit).flac
+390:Avril Lavigne/Avril Lavigne - Love Sux  (Deluxe) (2022) [FLAC] [24B-48kHz]/03. Avril Lavigne - Bite Me (Explicit).flac
+391:Avril Lavigne/Avril Lavigne - Love Sux  (Deluxe) (2022) [FLAC] [24B-48kHz]/04. Avril Lavigne - Love It When You Hate Me (feat. blackbear) (Explicit).flac
+392:Avril Lavigne/Avril Lavigne - Love Sux  (Deluxe) (2022) [FLAC] [24B-48kHz]/05. Avril Lavigne - Love Sux (Explicit).flac
+393:Avril Lavigne/Avril Lavigne - Love Sux  (Deluxe) (2022) [FLAC] [24B-48kHz]/06. Avril Lavigne - Kiss Me Like The World Is Ending (Explicit).flac
+394:Avril Lavigne/Avril Lavigne - Love Sux  (Deluxe) (2022) [FLAC] [24B-48kHz]/07. Avril Lavigne - Avalanche (Explicit).flac
+395:Avril Lavigne/Avril Lavigne - Love Sux  (Deluxe) (2022) [FLAC] [24B-48kHz]/08. Avril Lavigne - Déjà vu (Explicit).flac
+396:Avril Lavigne/Avril Lavigne - Love Sux  (Deluxe) (2022) [FLAC] [24B-48kHz]/09. Avril Lavigne - F.U (Explicit).flac
+397:Avril Lavigne/Avril Lavigne - Love Sux  (Deluxe) (2022) [FLAC] [24B-48kHz]/10. Avril Lavigne - All I Wanted (feat. Mark Hoppus) (Explicit).flac
+398:Avril Lavigne/Avril Lavigne - Love Sux  (Deluxe) (2022) [FLAC] [24B-48kHz]/11. Avril Lavigne - Dare To Love Me (Explicit).flac
+399:Avril Lavigne/Avril Lavigne - Love Sux  (Deluxe) (2022) [FLAC] [24B-48kHz]/12. Avril Lavigne - Break Of A Heartache (Explicit).flac
+400:Avril Lavigne/Avril Lavigne - Love Sux  (Deluxe) (2022) [FLAC] [24B-48kHz]/13. Avril Lavigne - I’m a Mess (with YUNGBLUD) (Explicit).flac
+401:Avril Lavigne/Avril Lavigne - Love Sux  (Deluxe) (2022) [FLAC] [24B-48kHz]/14. Avril Lavigne - Mercury In Retrograde (Explicit).flac
+402:Avril Lavigne/Avril Lavigne - Love Sux  (Deluxe) (2022) [FLAC] [24B-48kHz]/15. Avril Lavigne - Bite Me (Acoustic) (Explicit).flac
+403:Avril Lavigne/Avril Lavigne - Love Sux  (Deluxe) (2022) [FLAC] [24B-48kHz]/16. Avril Lavigne - Love It When You Hate Me (feat. blackbear) (Acoustic) (Explicit).flac
+404:Avril Lavigne/Avril Lavigne - Love Sux  (Deluxe) (2022) [FLAC] [24B-48kHz]/17. Avril Lavigne - Bois Lie (feat. Machine Gun Kelly) (Acoustic) (Explicit).flac
+405:Avril Lavigne/Avril Lavigne - Love Sux  (Deluxe) (2022) [FLAC] [24B-48kHz]/18. Avril Lavigne - Pity Party (Explicit).flac
+406:Carly Rae Jepsen - Call Me Maybe (2012) [FLAC] [16B-44.1kHz]/01. Carly Rae Jepsen - Call Me Maybe.flac
+407:Carly Rae Jepsen - Call Me Maybe (2012) [FLAC] [16B-44.1kHz]/01. Carly Rae Jepsen - Call Me Maybe.flac
+408:Avril Lavigne/Avril Lavigne - Let Go  (20th Anniversary Edition) (2002) [FLAC] [24B-48kHz]/01. Avril Lavigne - Losing Grip.flac
+409:Avril Lavigne/Avril Lavigne - Let Go  (20th Anniversary Edition) (2002) [FLAC] [24B-48kHz]/02. Avril Lavigne - Complicated.flac
+410:Avril Lavigne/Avril Lavigne - Let Go  (20th Anniversary Edition) (2002) [FLAC] [24B-48kHz]/03. Avril Lavigne - Sk8er Boi.flac
+411:Avril Lavigne/Avril Lavigne - Let Go  (20th Anniversary Edition) (2002) [FLAC] [24B-48kHz]/04. Avril Lavigne - I'm with You.flac
+412:Avril Lavigne/Avril Lavigne - Let Go  (20th Anniversary Edition) (2002) [FLAC] [24B-48kHz]/05. Avril Lavigne - Mobile.flac
+413:Avril Lavigne/Avril Lavigne - Let Go  (20th Anniversary Edition) (2002) [FLAC] [24B-48kHz]/06. Avril Lavigne - Unwanted.flac
+414:Avril Lavigne/Avril Lavigne - Let Go  (20th Anniversary Edition) (2002) [FLAC] [24B-48kHz]/07. Avril Lavigne - Tomorrow.flac
+415:Avril Lavigne/Avril Lavigne - Let Go  (20th Anniversary Edition) (2002) [FLAC] [24B-48kHz]/08. Avril Lavigne - Anything but Ordinary.flac
+416:Avril Lavigne/Avril Lavigne - Let Go  (20th Anniversary Edition) (2002) [FLAC] [24B-48kHz]/09. Avril Lavigne - Things I'll Never Say.flac
+417:Avril Lavigne/Avril Lavigne - Let Go  (20th Anniversary Edition) (2002) [FLAC] [24B-48kHz]/10. Avril Lavigne - My World.flac
+418:Avril Lavigne/Avril Lavigne - Let Go  (20th Anniversary Edition) (2002) [FLAC] [24B-48kHz]/11. Avril Lavigne - Nobody's Fool.flac
+419:Avril Lavigne/Avril Lavigne - Let Go  (20th Anniversary Edition) (2002) [FLAC] [24B-48kHz]/12. Avril Lavigne - Too Much to Ask.flac
+420:Avril Lavigne/Avril Lavigne - Let Go  (20th Anniversary Edition) (2002) [FLAC] [24B-48kHz]/13. Avril Lavigne - Naked.flac
+421:Avril Lavigne/Avril Lavigne - Let Go  (20th Anniversary Edition) (2002) [FLAC] [24B-48kHz]/14. Avril Lavigne - Why.flac
+422:Avril Lavigne/Avril Lavigne - Let Go  (20th Anniversary Edition) (2002) [FLAC] [24B-48kHz]/15. Avril Lavigne - Get Over It.flac
+423:Avril Lavigne/Avril Lavigne - Let Go  (20th Anniversary Edition) (2002) [FLAC] [24B-48kHz]/16. Avril Lavigne - Breakaway.flac
+424:Avril Lavigne/Avril Lavigne - Let Go  (20th Anniversary Edition) (2002) [FLAC] [24B-48kHz]/17. Avril Lavigne - Falling Down (from the Sweet Home Alabama Original Soundtrack).flac
+425:Avril Lavigne/Avril Lavigne - Let Go  (20th Anniversary Edition) (2002) [FLAC] [24B-48kHz]/18. Avril Lavigne - I Don't Give (from the American Wedding Original Soundtrack).flac
+426:Avril Lavigne/Avril Lavigne - Let Go  (20th Anniversary Edition) (2002) [FLAC] [24B-48kHz]/19. Avril Lavigne - Make Up.flac
+427:Avril Lavigne/Avril Lavigne - Love Sux  (Deluxe) (2022) [FLAC] [24B-48kHz]/01. Avril Lavigne - Cannonball (Explicit).flac
+428:Avril Lavigne/Avril Lavigne - Love Sux  (Deluxe) (2022) [FLAC] [24B-48kHz]/02. Avril Lavigne - Bois Lie (feat. Machine Gun Kelly) (Explicit).flac
+429:Avril Lavigne/Avril Lavigne - Love Sux  (Deluxe) (2022) [FLAC] [24B-48kHz]/03. Avril Lavigne - Bite Me (Explicit).flac
+430:Avril Lavigne/Avril Lavigne - Love Sux  (Deluxe) (2022) [FLAC] [24B-48kHz]/04. Avril Lavigne - Love It When You Hate Me (feat. blackbear) (Explicit).flac
+431:Avril Lavigne/Avril Lavigne - Love Sux  (Deluxe) (2022) [FLAC] [24B-48kHz]/05. Avril Lavigne - Love Sux (Explicit).flac
+432:Avril Lavigne/Avril Lavigne - Love Sux  (Deluxe) (2022) [FLAC] [24B-48kHz]/06. Avril Lavigne - Kiss Me Like The World Is Ending (Explicit).flac
+433:Avril Lavigne/Avril Lavigne - Love Sux  (Deluxe) (2022) [FLAC] [24B-48kHz]/07. Avril Lavigne - Avalanche (Explicit).flac
+434:Avril Lavigne/Avril Lavigne - Love Sux  (Deluxe) (2022) [FLAC] [24B-48kHz]/08. Avril Lavigne - Déjà vu (Explicit).flac
+435:Avril Lavigne/Avril Lavigne - Love Sux  (Deluxe) (2022) [FLAC] [24B-48kHz]/09. Avril Lavigne - F.U (Explicit).flac
+436:Avril Lavigne/Avril Lavigne - Love Sux  (Deluxe) (2022) [FLAC] [24B-48kHz]/10. Avril Lavigne - All I Wanted (feat. Mark Hoppus) (Explicit).flac
+437:Avril Lavigne/Avril Lavigne - Love Sux  (Deluxe) (2022) [FLAC] [24B-48kHz]/11. Avril Lavigne - Dare To Love Me (Explicit).flac
+438:Avril Lavigne/Avril Lavigne - Love Sux  (Deluxe) (2022) [FLAC] [24B-48kHz]/12. Avril Lavigne - Break Of A Heartache (Explicit).flac
+439:Avril Lavigne/Avril Lavigne - Love Sux  (Deluxe) (2022) [FLAC] [24B-48kHz]/13. Avril Lavigne - I’m a Mess (with YUNGBLUD) (Explicit).flac
+440:Avril Lavigne/Avril Lavigne - Love Sux  (Deluxe) (2022) [FLAC] [24B-48kHz]/14. Avril Lavigne - Mercury In Retrograde (Explicit).flac
+441:Avril Lavigne/Avril Lavigne - Love Sux  (Deluxe) (2022) [FLAC] [24B-48kHz]/15. Avril Lavigne - Bite Me (Acoustic) (Explicit).flac
+442:Avril Lavigne/Avril Lavigne - Love Sux  (Deluxe) (2022) [FLAC] [24B-48kHz]/16. Avril Lavigne - Love It When You Hate Me (feat. blackbear) (Acoustic) (Explicit).flac
+443:Avril Lavigne/Avril Lavigne - Love Sux  (Deluxe) (2022) [FLAC] [24B-48kHz]/17. Avril Lavigne - Bois Lie (feat. Machine Gun Kelly) (Acoustic) (Explicit).flac
+444:Avril Lavigne/Avril Lavigne - Love Sux  (Deluxe) (2022) [FLAC] [24B-48kHz]/18. Avril Lavigne - Pity Party (Explicit).flac
+445:Olivia Rodrigo/Olivia Rodrigo - bad idea right (2023) [FLAC] [24B-48kHz]/01. Olivia Rodrigo - bad idea right (Explicit).flac
+446:Olivia Rodrigo/Olivia Rodrigo - SOUR (2021) [FLAC] [24B-44.1kHz]/01. Olivia Rodrigo - brutal (Explicit).flac
+447:Olivia Rodrigo/Olivia Rodrigo - SOUR (2021) [FLAC] [24B-44.1kHz]/02. Olivia Rodrigo - traitor (Explicit).flac
+448:Olivia Rodrigo/Olivia Rodrigo - SOUR (2021) [FLAC] [24B-44.1kHz]/03. Olivia Rodrigo - drivers license (Explicit).flac
+449:Olivia Rodrigo/Olivia Rodrigo - SOUR (2021) [FLAC] [24B-44.1kHz]/04. Olivia Rodrigo - 1 step forward, 3 steps back (Explicit).flac
+450:Olivia Rodrigo/Olivia Rodrigo - SOUR (2021) [FLAC] [24B-44.1kHz]/05. Olivia Rodrigo - deja vu (Explicit).flac
+451:Olivia Rodrigo/Olivia Rodrigo - SOUR (2021) [FLAC] [24B-44.1kHz]/06. Olivia Rodrigo - good 4 u (Explicit).flac
+452:Olivia Rodrigo/Olivia Rodrigo - SOUR (2021) [FLAC] [24B-44.1kHz]/07. Olivia Rodrigo - enough for you (Explicit).flac
+453:Olivia Rodrigo/Olivia Rodrigo - SOUR (2021) [FLAC] [24B-44.1kHz]/08. Olivia Rodrigo - happier (Explicit).flac
+454:Olivia Rodrigo/Olivia Rodrigo - SOUR (2021) [FLAC] [24B-44.1kHz]/09. Olivia Rodrigo - jealousy, jealousy (Explicit).flac
+455:Olivia Rodrigo/Olivia Rodrigo - SOUR (2021) [FLAC] [24B-44.1kHz]/10. Olivia Rodrigo - favorite crime (Explicit).flac
+456:Olivia Rodrigo/Olivia Rodrigo - SOUR (2021) [FLAC] [24B-44.1kHz]/11. Olivia Rodrigo - hope ur ok (Explicit).flac
+457:Olivia Rodrigo/Olivia Rodrigo - vampire (2023) [FLAC] [24B-48kHz]/01. Olivia Rodrigo - vampire (Explicit).flac
+458:Taylor Swift/Taylor Swift - Speak Now (Taylor's Version) (2023) [FLAC] [24B-44.1kHz]/04. Taylor Swift - Speak Now (Taylor's Version).flac
+459:Taylor Swift/Taylor Swift - Red (Taylor's Version) (2021) [FLAC] [24B-96kHz]/05. Taylor Swift - All Too Well (Taylor's Version) (Explicit).flac
+460:Taylor Swift/Taylor Swift - Fearless (Taylor's Version) (2021) [FLAC] [24B-96kHz]/02. Taylor Swift - Fifteen (Taylor’s Version).flac
+461:Taylor Swift/Taylor Swift - Red (Taylor's Version) (2021) [FLAC] [24B-96kHz]/16. Taylor Swift - Begin Again (Taylor's Version) (Explicit).flac
+462:Taylor Swift/Taylor Swift - Red (Taylor's Version) (2021) [FLAC] [24B-96kHz]/26. Taylor Swift - I Bet You Think About Me (Taylor's Version) (From The Vault) (Explicit).flac
+463:Taylor Swift/Taylor Swift - folklore (deluxe version - explicit) (2020) [FLAC] [24B-44.1kHz]/08. Taylor Swift - august (Explicit).flac
+464:Taylor Swift/Taylor Swift - Speak Now (Taylor's Version) (2023) [FLAC] [24B-44.1kHz]/22. Taylor Swift - Timeless (Taylor’s Version) (From The Vault).flac
+465:Taylor Swift/Taylor Swift - 1989 (Deluxe Edition) (2014) [FLAC] [24B-44.1kHz]/09. Taylor Swift - Wildest Dreams.flac
+466:Taylor Swift/Taylor Swift - Fearless (Taylor's Version) (2021) [FLAC] [24B-96kHz]/24. Taylor Swift - That’s When (Taylor’s Version) (From The Vault).flac
+467:Taylor Swift/Taylor Swift - Midnights (3am Edition) (2022) [FLAC] [24B-48kHz]/18. Taylor Swift - Glitch (Explicit).flac
+468:Taylor Swift/Taylor Swift - Lover (2019) [FLAC] [24B-44.1kHz]/08. Taylor Swift - Paper Rings.flac
+469:Taylor Swift/Taylor Swift - folklore (deluxe version - explicit) (2020) [FLAC] [24B-44.1kHz]/15. Taylor Swift - peace (Explicit).flac
+470:Taylor Swift/Taylor Swift - reputation (2017) [FLAC] [24B-44.1kHz]/13. Taylor Swift - This Is Why We Can't Have Nice Things.flac
+471:Taylor Swift/Taylor Swift - Fearless (Taylor's Version) (2021) [FLAC] [24B-96kHz]/05. Taylor Swift - White Horse (Taylor’s Version).flac
+472:Taylor Swift/Taylor Swift - Red (Taylor's Version) (2021) [FLAC] [24B-96kHz]/18. Taylor Swift - Come Back...Be Here (Taylor's Version) (Explicit).flac
+473:Taylor Swift/Taylor Swift - Red (Taylor's Version) (2021) [FLAC] [24B-96kHz]/30. Taylor Swift - All Too Well (10 Minute Version) (Taylor's Version) (From The Vault) (Explicit).flac
+474:Taylor Swift/Taylor Swift - 1989 (Deluxe Edition) (2014) [FLAC] [24B-44.1kHz]/17. Taylor Swift - I Know Places (Voice Memo).flac
+475:Taylor Swift/Taylor Swift - Fearless (Taylor's Version) (2021) [FLAC] [24B-96kHz]/21. Taylor Swift - You All Over Me (Taylor’s Version) (From The Vault).flac
+476:Taylor Swift/Taylor Swift - Lover (2019) [FLAC] [24B-44.1kHz]/05. Taylor Swift - The Archer.flac
+477:Taylor Swift/Taylor Swift - Red (Taylor's Version) (2021) [FLAC] [24B-96kHz]/12. Taylor Swift - Sad Beautiful Tragic (Taylor's Version) (Explicit).flac
+478:Taylor Swift/Taylor Swift - Speak Now (Taylor's Version) (2023) [FLAC] [24B-44.1kHz]/18. Taylor Swift - When Emma Falls in Love (Taylor’s Version) (From The Vault).flac
+479:Taylor Swift/Taylor Swift - Fearless (Taylor's Version) (2021) [FLAC] [24B-96kHz]/10. Taylor Swift - The Way I Loved You (Taylor’s Version).flac
+480:Taylor Swift/Taylor Swift - 1989 (Deluxe Edition) (2014) [FLAC] [24B-44.1kHz]/04. Taylor Swift - Out Of The Woods.flac
+481:Taylor Swift/Taylor Swift - evermore (deluxe version) (2020) [FLAC] [24B-88.2kHz]/14. Taylor Swift - closure (Explicit).flac
+482:Taylor Swift/Taylor Swift - Speak Now (Taylor's Version) (2023) [FLAC] [24B-44.1kHz]/05. Taylor Swift - Dear John (Taylor's Version).flac
+483:Taylor Swift/Taylor Swift - 1989 (Deluxe Edition) (2014) [FLAC] [24B-44.1kHz]/19. Taylor Swift - Blank Space (Voice Memo).flac
+484:Taylor Swift/Taylor Swift - 1989 (Deluxe Edition) (2014) [FLAC] [24B-44.1kHz]/14. Taylor Swift - Wonderland.flac
+485:Taylor Swift/Taylor Swift - Fearless (Taylor's Version) (2021) [FLAC] [24B-96kHz]/06. Taylor Swift - You Belong With Me (Taylor’s Version).flac
+486:Taylor Swift/Taylor Swift - Lover (2019) [FLAC] [24B-44.1kHz]/12. Taylor Swift - Soon You’ll Get Better.flac
+487:Taylor Swift/Taylor Swift - Red (Taylor's Version) (2021) [FLAC] [24B-96kHz]/28. Taylor Swift - Run (Taylor's Version) (From The Vault) (Explicit).flac
+488:Taylor Swift/Taylor Swift - Midnights (3am Edition) (2022) [FLAC] [24B-48kHz]/04. Taylor Swift - Snow On The Beach (Explicit).flac
+489:Taylor Swift/Taylor Swift - folklore (deluxe version - explicit) (2020) [FLAC] [24B-44.1kHz]/03. Taylor Swift - the last great american dynasty (Explicit).flac
+490:Taylor Swift/Taylor Swift - Fearless (Taylor's Version) (2021) [FLAC] [24B-96kHz]/18. Taylor Swift - Superstar (Taylor’s Version).flac
+491:Taylor Swift/Taylor Swift - Midnights (3am Edition) (2022) [FLAC] [24B-48kHz]/12. Taylor Swift - Sweet Nothing (Explicit).flac
+492:Taylor Swift/Taylor Swift - Speak Now (Taylor's Version) (2023) [FLAC] [24B-44.1kHz]/17. Taylor Swift - Electric Touch (Taylor’s Version) (From The Vault).flac
+493:Taylor Swift/Taylor Swift - Speak Now (Taylor's Version) (2023) [FLAC] [24B-44.1kHz]/10. Taylor Swift - Better Than Revenge (Taylor's Version).flac
+494:Taylor Swift/Taylor Swift - Red (Taylor's Version) (2021) [FLAC] [24B-96kHz]/07. Taylor Swift - I Almost Do (Taylor's Version) (Explicit).flac
+495:Taylor Swift/Taylor Swift - Fearless (Taylor's Version) (2021) [FLAC] [24B-96kHz]/14. Taylor Swift - Jump Then Fall (Taylor’s Version).flac
+496:Taylor Swift/Taylor Swift - Fearless (Taylor's Version) (2021) [FLAC] [24B-96kHz]/20. Taylor Swift - Today Was A Fairytale (Taylor’s Version).flac
+497:Taylor Swift/Taylor Swift - Red (Taylor's Version) (2021) [FLAC] [24B-96kHz]/25. Taylor Swift - Message In A Bottle (Taylor's Version) (From The Vault) (Explicit).flac
+498:Taylor Swift/Taylor Swift - Fearless (Taylor's Version) (2021) [FLAC] [24B-96kHz]/11. Taylor Swift - Forever & Always (Taylor’s Version).flac
+499:Taylor Swift/Taylor Swift - folklore (deluxe version - explicit) (2020) [FLAC] [24B-44.1kHz]/16. Taylor Swift - hoax (Explicit).flac
+500:Taylor Swift/Taylor Swift - Fearless (Taylor's Version) (2021) [FLAC] [24B-96kHz]/25. Taylor Swift - Don’t You (Taylor’s Version) (From The Vault).flac
+501:Taylor Swift/Taylor Swift - Red (Taylor's Version) (2021) [FLAC] [24B-96kHz]/27. Taylor Swift - Forever Winter (Taylor's Version) (From The Vault) (Explicit).flac
+502:Taylor Swift/Taylor Swift - Midnights (3am Edition) (2022) [FLAC] [24B-48kHz]/06. Taylor Swift - Midnight Rain (Explicit).flac
+503:Taylor Swift/Taylor Swift - Red (Taylor's Version) (2021) [FLAC] [24B-96kHz]/13. Taylor Swift - The Lucky One (Taylor's Version) (Explicit).flac
+504:Taylor Swift/Taylor Swift - evermore (deluxe version) (2020) [FLAC] [24B-88.2kHz]/02. Taylor Swift - champagne problems (Explicit).flac
+505:Taylor Swift/Taylor Swift - reputation (2017) [FLAC] [24B-44.1kHz]/14. Taylor Swift - Call It What You Want.flac
+506:Taylor Swift/Taylor Swift - Fearless (Taylor's Version) (2021) [FLAC] [24B-96kHz]/15. Taylor Swift - Untouchable (Taylor’s Version).flac
+507:Taylor Swift/Taylor Swift - evermore (deluxe version) (2020) [FLAC] [24B-88.2kHz]/13. Taylor Swift - marjorie (Explicit).flac
+508:Taylor Swift/Taylor Swift - evermore (deluxe version) (2020) [FLAC] [24B-88.2kHz]/03. Taylor Swift - gold rush (Explicit).flac
+509:Taylor Swift/Taylor Swift - Midnights (3am Edition) (2022) [FLAC] [24B-48kHz]/05. Taylor Swift - You're On Your Own, Kid (Explicit).flac
+510:Taylor Swift/Taylor Swift - Lover (2019) [FLAC] [24B-44.1kHz]/02. Taylor Swift - Cruel Summer.flac
+511:Taylor Swift/Taylor Swift - Red (Taylor's Version) (2021) [FLAC] [24B-96kHz]/19. Taylor Swift - Girl At Home (Taylor's Version) (Explicit).flac
+512:Taylor Swift/Taylor Swift - folklore (deluxe version - explicit) (2020) [FLAC] [24B-44.1kHz]/04. Taylor Swift - exile (Explicit).flac
+513:Taylor Swift/Taylor Swift - evermore (deluxe version) (2020) [FLAC] [24B-88.2kHz]/16. Taylor Swift - right where you left me (bonus track) (Explicit).flac
+514:Taylor Swift/Taylor Swift - Midnights (3am Edition) (2022) [FLAC] [24B-48kHz]/09. Taylor Swift - Bejeweled (Explicit).flac
+515:Taylor Swift/Taylor Swift - Fearless (Taylor's Version) (2021) [FLAC] [24B-96kHz]/22. Taylor Swift - Mr. Perfectly Fine (Taylor’s Version) (From The Vault).flac
+516:Taylor Swift/Taylor Swift - 1989 (Deluxe Edition) (2014) [FLAC] [24B-44.1kHz]/10. Taylor Swift - How You Get The Girl.flac
+517:Taylor Swift/Taylor Swift - folklore (deluxe version - explicit) (2020) [FLAC] [24B-44.1kHz]/06. Taylor Swift - mirrorball (Explicit).flac
+518:Taylor Swift/Taylor Swift - Red (Taylor's Version) (2021) [FLAC] [24B-96kHz]/14. Taylor Swift - Everything Has Changed (Taylor's Version) (Explicit).flac
+519:Taylor Swift/Taylor Swift - Speak Now (Taylor's Version) (2023) [FLAC] [24B-44.1kHz]/13. Taylor Swift - Last Kiss (Taylor's Version).flac
+520:Taylor Swift/Taylor Swift - folklore (deluxe version - explicit) (2020) [FLAC] [24B-44.1kHz]/14. Taylor Swift - betty (Explicit).flac
+521:Taylor Swift/Taylor Swift - folklore (deluxe version - explicit) (2020) [FLAC] [24B-44.1kHz]/13. Taylor Swift - epiphany (Explicit).flac
+522:Taylor Swift/Taylor Swift - 1989 (Deluxe Edition) (2014) [FLAC] [24B-44.1kHz]/13. Taylor Swift - Clean.flac
+523:Taylor Swift/Taylor Swift - folklore (deluxe version - explicit) (2020) [FLAC] [24B-44.1kHz]/12. Taylor Swift - mad woman (Explicit).flac
+524:Taylor Swift/Taylor Swift - Lover (2019) [FLAC] [24B-44.1kHz]/06. Taylor Swift - I Think He Knows.flac
+525:Taylor Swift/Taylor Swift - Red (Taylor's Version) (2021) [FLAC] [24B-96kHz]/22. Taylor Swift - Better Man (Taylor's Version) (From The Vault) (Explicit).flac
+526:Taylor Swift/Taylor Swift - evermore (deluxe version) (2020) [FLAC] [24B-88.2kHz]/04. Taylor Swift - ‘tis the damn season (Explicit).flac
+527:Taylor Swift/Taylor Swift - Fearless (Taylor's Version) (2021) [FLAC] [24B-96kHz]/08. Taylor Swift - Tell Me Why (Taylor’s Version).flac
+528:Taylor Swift/Taylor Swift - Fearless (Taylor's Version) (2021) [FLAC] [24B-96kHz]/23. Taylor Swift - We Were Happy (Taylor’s Version) (From The Vault).flac
+529:Taylor Swift/Taylor Swift - Red (Taylor's Version) (2021) [FLAC] [24B-96kHz]/03. Taylor Swift - Treacherous (Taylor's Version) (Explicit).flac
+530:Taylor Swift/Taylor Swift - Midnights (3am Edition) (2022) [FLAC] [24B-48kHz]/14. Taylor Swift - The Great War (Explicit).flac
+531:Taylor Swift/Taylor Swift - reputation (2017) [FLAC] [24B-44.1kHz]/15. Taylor Swift - New Year’s Day.flac
+532:Taylor Swift/Taylor Swift - reputation (2017) [FLAC] [24B-44.1kHz]/01. Taylor Swift - ...Ready For It.flac
+533:Taylor Swift/Taylor Swift - Fearless (Taylor's Version) (2021) [FLAC] [24B-96kHz]/03. Taylor Swift - Love Story (Taylor’s Version).flac
+534:Taylor Swift/Taylor Swift - Lover (2019) [FLAC] [24B-44.1kHz]/03. Taylor Swift - Lover.flac
+535:Taylor Swift/Taylor Swift - folklore (deluxe version - explicit) (2020) [FLAC] [24B-44.1kHz]/02. Taylor Swift - cardigan (Explicit).flac
+536:Taylor Swift/Taylor Swift - Speak Now (Taylor's Version) (2023) [FLAC] [24B-44.1kHz]/01. Taylor Swift - Mine (Taylor's Version).flac
+537:Taylor Swift/Taylor Swift - Lover (2019) [FLAC] [24B-44.1kHz]/16. Taylor Swift - ME!.flac
+538:Taylor Swift/Taylor Swift - Red (Taylor's Version) (2021) [FLAC] [24B-96kHz]/09. Taylor Swift - Stay Stay Stay (Taylor's Version) (Explicit).flac
+539:Taylor Swift/Taylor Swift - Fearless (Taylor's Version) (2021) [FLAC] [24B-96kHz]/17. Taylor Swift - Come In With The Rain (Taylor’s Version).flac
+540:Taylor Swift/Taylor Swift - reputation (2017) [FLAC] [24B-44.1kHz]/02. Taylor Swift - End Game.flac
+541:Taylor Swift/Taylor Swift - 1989 (Deluxe Edition) (2014) [FLAC] [24B-44.1kHz]/07. Taylor Swift - I Wish You Would.flac
+542:Taylor Swift/Taylor Swift - Fearless (Taylor's Version) (2021) [FLAC] [24B-96kHz]/01. Taylor Swift - Fearless (Taylor’s Version).flac
+543:Taylor Swift/Taylor Swift - Fearless (Taylor's Version) (2021) [FLAC] [24B-96kHz]/13. Taylor Swift - Change (Taylor’s Version).flac
+544:Taylor Swift/Taylor Swift - Lover (2019) [FLAC] [24B-44.1kHz]/07. Taylor Swift - Miss Americana & The Heartbreak Prince.flac
+545:Taylor Swift/Taylor Swift - Midnights (3am Edition) (2022) [FLAC] [24B-48kHz]/15. Taylor Swift - Bigger Than The Whole Sky (Explicit).flac
+546:Taylor Swift/Taylor Swift - 1989 (Deluxe Edition) (2014) [FLAC] [24B-44.1kHz]/03. Taylor Swift - Style.flac
+547:Taylor Swift/Taylor Swift - Red (Taylor's Version) (2021) [FLAC] [24B-96kHz]/20. Taylor Swift - State Of Grace (Acoustic Version) (Taylor's Version) (Explicit).flac
+548:Taylor Swift/Taylor Swift - 1989 (Deluxe Edition) (2014) [FLAC] [24B-44.1kHz]/05. Taylor Swift - All You Had To Do Was Stay.flac
+549:Taylor Swift/Taylor Swift - reputation (2017) [FLAC] [24B-44.1kHz]/03. Taylor Swift - I Did Something Bad.flac
+550:Taylor Swift/Taylor Swift - 1989 (Deluxe Edition) (2014) [FLAC] [24B-44.1kHz]/18. Taylor Swift - I Wish You Would (Voice Memo).flac
+551:Taylor Swift/Taylor Swift - Red (Taylor's Version) (2021) [FLAC] [24B-96kHz]/01. Taylor Swift - State Of Grace (Taylor's Version) (Explicit).flac
+552:Taylor Swift/Taylor Swift - evermore (deluxe version) (2020) [FLAC] [24B-88.2kHz]/01. Taylor Swift - willow (Explicit).flac
+553:Taylor Swift/Taylor Swift - Red (Taylor's Version) (2021) [FLAC] [24B-96kHz]/23. Taylor Swift - Nothing New (Taylor's Version) (From The Vault) (Explicit).flac
+554:Taylor Swift/Taylor Swift - Red (Taylor's Version) (2021) [FLAC] [24B-96kHz]/21. Taylor Swift - Ronan (Taylor's Version) (Explicit).flac
+555:Taylor Swift/Taylor Swift - Speak Now (Taylor's Version) (2023) [FLAC] [24B-44.1kHz]/03. Taylor Swift - Back To December (Taylor's Version).flac
+556:Taylor Swift/Taylor Swift - Midnights (3am Edition) (2022) [FLAC] [24B-48kHz]/20. Taylor Swift - Dear Reader (Explicit).flac
+557:Taylor Swift/Taylor Swift - evermore (deluxe version) (2020) [FLAC] [24B-88.2kHz]/11. Taylor Swift - cowboy like me (Explicit).flac
+558:Taylor Swift/Taylor Swift - reputation (2017) [FLAC] [24B-44.1kHz]/06. Taylor Swift - Look What You Made Me Do.flac
+559:Taylor Swift/Taylor Swift - folklore (deluxe version - explicit) (2020) [FLAC] [24B-44.1kHz]/07. Taylor Swift - seven (Explicit).flac
+560:Taylor Swift/Taylor Swift - Red (Taylor's Version) (2021) [FLAC] [24B-96kHz]/06. Taylor Swift - 22 (Taylor's Version) (Explicit).flac
+561:Taylor Swift/Taylor Swift - Red (Taylor's Version) (2021) [FLAC] [24B-96kHz]/17. Taylor Swift - The Moment I Knew (Taylor's Version) (Explicit).flac
+562:Taylor Swift/Taylor Swift - folklore (deluxe version - explicit) (2020) [FLAC] [24B-44.1kHz]/17. Taylor Swift - the lakes (bonus track) (Explicit).flac
+563:Taylor Swift/Taylor Swift - 1989 (Deluxe Edition) (2014) [FLAC] [24B-44.1kHz]/11. Taylor Swift - This Love.flac
+564:Taylor Swift/Taylor Swift - reputation (2017) [FLAC] [24B-44.1kHz]/11. Taylor Swift - Dancing With Our Hands Tied.flac
+565:Taylor Swift/Taylor Swift - reputation (2017) [FLAC] [24B-44.1kHz]/09. Taylor Swift - Getaway Car.flac
+566:Taylor Swift/Taylor Swift - evermore (deluxe version) (2020) [FLAC] [24B-88.2kHz]/10. Taylor Swift - ivy (Explicit).flac
+567:Taylor Swift/Taylor Swift - Fearless (Taylor's Version) (2021) [FLAC] [24B-96kHz]/04. Taylor Swift - Hey Stephen (Taylor’s Version).flac
+568:Taylor Swift/Taylor Swift - reputation (2017) [FLAC] [24B-44.1kHz]/04. Taylor Swift - Don’t Blame Me.flac
+569:Taylor Swift/Taylor Swift - Fearless (Taylor's Version) (2021) [FLAC] [24B-96kHz]/07. Taylor Swift - Breathe (Taylor’s Version).flac
+570:Taylor Swift/Taylor Swift - Red (Taylor's Version) (2021) [FLAC] [24B-96kHz]/11. Taylor Swift - Holy Ground (Taylor's Version) (Explicit).flac
+571:Taylor Swift/Taylor Swift - Fearless (Taylor's Version) (2021) [FLAC] [24B-96kHz]/16. Taylor Swift - Forever & Always (Piano Version) (Taylor’s Version).flac
+572:Taylor Swift/Taylor Swift - Speak Now (Taylor's Version) (2023) [FLAC] [24B-44.1kHz]/14. Taylor Swift - Long Live (Taylor's Version).flac
+573:Taylor Swift/Taylor Swift - 1989 (Deluxe Edition) (2014) [FLAC] [24B-44.1kHz]/12. Taylor Swift - I Know Places.flac
+574:Taylor Swift/Taylor Swift - reputation (2017) [FLAC] [24B-44.1kHz]/12. Taylor Swift - Dress.flac
+575:Taylor Swift/Taylor Swift - reputation (2017) [FLAC] [24B-44.1kHz]/10. Taylor Swift - King Of My Heart.flac
+576:Taylor Swift/Taylor Swift - evermore (deluxe version) (2020) [FLAC] [24B-88.2kHz]/07. Taylor Swift - happiness (Explicit).flac
+577:Taylor Swift/Taylor Swift - Speak Now (Taylor's Version) (2023) [FLAC] [24B-44.1kHz]/21. Taylor Swift - Foolish One (Taylor’s Version) (From The Vault).flac
+578:Taylor Swift/Taylor Swift - 1989 (Deluxe Edition) (2014) [FLAC] [24B-44.1kHz]/01. Taylor Swift - Welcome To New York.flac
+579:Taylor Swift/Taylor Swift - evermore (deluxe version) (2020) [FLAC] [24B-88.2kHz]/08. Taylor Swift - dorothea (Explicit).flac
+580:Taylor Swift/Taylor Swift - folklore (deluxe version - explicit) (2020) [FLAC] [24B-44.1kHz]/01. Taylor Swift - the 1 (Explicit).flac
+581:Taylor Swift/Taylor Swift - reputation (2017) [FLAC] [24B-44.1kHz]/05. Taylor Swift - Delicate.flac
+582:Taylor Swift/Taylor Swift - Midnights (3am Edition) (2022) [FLAC] [24B-48kHz]/02. Taylor Swift - Maroon (Explicit).flac
+583:Taylor Swift/Taylor Swift - folklore (deluxe version - explicit) (2020) [FLAC] [24B-44.1kHz]/05. Taylor Swift - my tears ricochet (Explicit).flac
+584:Taylor Swift/Taylor Swift - folklore (deluxe version - explicit) (2020) [FLAC] [24B-44.1kHz]/11. Taylor Swift - invisible string (Explicit).flac
+585:Taylor Swift/Taylor Swift - Midnights (3am Edition) (2022) [FLAC] [24B-48kHz]/03. Taylor Swift - Anti-Hero (Explicit).flac
+586:Taylor Swift/Taylor Swift - Speak Now (Taylor's Version) (2023) [FLAC] [24B-44.1kHz]/12. Taylor Swift - Haunted (Taylor's Version).flac
+587:Taylor Swift/Taylor Swift - Speak Now (Taylor's Version) (2023) [FLAC] [24B-44.1kHz]/08. Taylor Swift - Never Grow Up (Taylor's Version).flac
+588:Taylor Swift/Taylor Swift - Red (Taylor's Version) (2021) [FLAC] [24B-96kHz]/02. Taylor Swift - Red (Taylor's Version) (Explicit).flac
+589:Taylor Swift/Taylor Swift - Fearless (Taylor's Version) (2021) [FLAC] [24B-96kHz]/09. Taylor Swift - You’re Not Sorry (Taylor’s Version).flac
+590:Taylor Swift/Taylor Swift - 1989 (Deluxe Edition) (2014) [FLAC] [24B-44.1kHz]/02. Taylor Swift - Blank Space.flac
+591:Taylor Swift/Taylor Swift - 1989 (Deluxe Edition) (2014) [FLAC] [24B-44.1kHz]/08. Taylor Swift - Bad Blood.flac
+592:Taylor Swift/Taylor Swift - Speak Now (Taylor's Version) (2023) [FLAC] [24B-44.1kHz]/15. Taylor Swift - Ours (Taylor’s Version).flac
+593:Taylor Swift/Taylor Swift - Lover (2019) [FLAC] [24B-44.1kHz]/14. Taylor Swift - You Need To Calm Down.flac
+594:Taylor Swift/Taylor Swift - 1989 (Deluxe Edition) (2014) [FLAC] [24B-44.1kHz]/15. Taylor Swift - You Are In Love.flac
+595:Taylor Swift/Taylor Swift - evermore (deluxe version) (2020) [FLAC] [24B-88.2kHz]/05. Taylor Swift - tolerate it (Explicit).flac
+596:Taylor Swift/Taylor Swift - Lover (2019) [FLAC] [24B-44.1kHz]/10. Taylor Swift - Death By A Thousand Cuts.flac
+597:Taylor Swift/Taylor Swift - Lover (2019) [FLAC] [24B-44.1kHz]/04. Taylor Swift - The Man.flac
+598:Taylor Swift/Taylor Swift - 1989 (Deluxe Edition) (2014) [FLAC] [24B-44.1kHz]/06. Taylor Swift - Shake It Off.flac
+599:Taylor Swift/Taylor Swift - Midnights (3am Edition) (2022) [FLAC] [24B-48kHz]/11. Taylor Swift - Karma (Explicit).flac
+600:Taylor Swift/Taylor Swift - Lover (2019) [FLAC] [24B-44.1kHz]/18. Taylor Swift - Daylight.flac
+601:Taylor Swift/Taylor Swift - Red (Taylor's Version) (2021) [FLAC] [24B-96kHz]/24. Taylor Swift - Babe (Taylor's Version) (From The Vault) (Explicit).flac
+602:Taylor Swift/Taylor Swift - Midnights (3am Edition) (2022) [FLAC] [24B-48kHz]/10. Taylor Swift - Labyrinth (Explicit).flac
+603:Taylor Swift/Taylor Swift - Midnights (3am Edition) (2022) [FLAC] [24B-48kHz]/13. Taylor Swift - Mastermind (Explicit).flac
+604:Taylor Swift/Taylor Swift - Lover (2019) [FLAC] [24B-44.1kHz]/15. Taylor Swift - Afterglow.flac
+605:Taylor Swift/Taylor Swift - Midnights (3am Edition) (2022) [FLAC] [24B-48kHz]/16. Taylor Swift - Paris (Explicit).flac
+606:Taylor Swift/Taylor Swift - Midnights (3am Edition) (2022) [FLAC] [24B-48kHz]/07. Taylor Swift - Question (Explicit).flac
+607:Taylor Swift/Taylor Swift - Fearless (Taylor's Version) (2021) [FLAC] [24B-96kHz]/26. Taylor Swift - Bye Bye Baby (Taylor’s Version) (From The Vault).flac
+608:Taylor Swift/Taylor Swift - evermore (deluxe version) (2020) [FLAC] [24B-88.2kHz]/17. Taylor Swift - it’s time to go (bonus track) (Explicit).flac
+609:Taylor Swift/Taylor Swift - Midnights (3am Edition) (2022) [FLAC] [24B-48kHz]/08. Taylor Swift - Vigilante Shit (Explicit).flac
+610:Taylor Swift/Taylor Swift - Lover (2019) [FLAC] [24B-44.1kHz]/09. Taylor Swift - Cornelia Street.flac
+611:Taylor Swift/Taylor Swift - reputation (2017) [FLAC] [24B-44.1kHz]/07. Taylor Swift - So It Goes.flac
+612:Taylor Swift/Taylor Swift - Midnights (3am Edition) (2022) [FLAC] [24B-48kHz]/01. Taylor Swift - Lavender Haze (Explicit).flac
+613:Taylor Swift/Taylor Swift - folklore (deluxe version - explicit) (2020) [FLAC] [24B-44.1kHz]/09. Taylor Swift - this is me trying (Explicit).flac
+614:Taylor Swift/Taylor Swift - evermore (deluxe version) (2020) [FLAC] [24B-88.2kHz]/06. Taylor Swift - no body, no crime (Explicit).flac
+615:Taylor Swift/Taylor Swift - evermore (deluxe version) (2020) [FLAC] [24B-88.2kHz]/15. Taylor Swift - evermore (Explicit).flac
+616:Taylor Swift/Taylor Swift - Red (Taylor's Version) (2021) [FLAC] [24B-96kHz]/15. Taylor Swift - Starlight (Taylor's Version) (Explicit).flac
+617:Taylor Swift/Taylor Swift - Speak Now (Taylor's Version) (2023) [FLAC] [24B-44.1kHz]/06. Taylor Swift - Mean (Taylor's Version).flac
+618:Taylor Swift/Taylor Swift - Speak Now (Taylor's Version) (2023) [FLAC] [24B-44.1kHz]/16. Taylor Swift - Superman (Taylor’s Version).flac
+619:Taylor Swift/Taylor Swift - Speak Now (Taylor's Version) (2023) [FLAC] [24B-44.1kHz]/09. Taylor Swift - Enchanted (Taylor's Version).flac
+620:Taylor Swift/Taylor Swift - folklore (deluxe version - explicit) (2020) [FLAC] [24B-44.1kHz]/10. Taylor Swift - illicit affairs (Explicit).flac
+621:Taylor Swift/Taylor Swift - Midnights (3am Edition) (2022) [FLAC] [24B-48kHz]/19. Taylor Swift - Would've, Could've, Should've (Explicit).flac
+622:Taylor Swift/Taylor Swift - Speak Now (Taylor's Version) (2023) [FLAC] [24B-44.1kHz]/20. Taylor Swift - Castles Crumbling (Taylor’s Version) (From The Vault).flac
+623:Taylor Swift/Taylor Swift - Lover (2019) [FLAC] [24B-44.1kHz]/17. Taylor Swift - It’s Nice To Have A Friend.flac
+624:Taylor Swift/Taylor Swift - evermore (deluxe version) (2020) [FLAC] [24B-88.2kHz]/12. Taylor Swift - long story short (Explicit).flac
+625:Taylor Swift/Taylor Swift - 1989 (Deluxe Edition) (2014) [FLAC] [24B-44.1kHz]/16. Taylor Swift - New Romantics.flac
+626:Taylor Swift/Taylor Swift - evermore (deluxe version) (2020) [FLAC] [24B-88.2kHz]/09. Taylor Swift - coney island (Explicit).flac
+627:Taylor Swift/Taylor Swift - Lover (2019) [FLAC] [24B-44.1kHz]/01. Taylor Swift - I Forgot That You Existed.flac
+628:Taylor Swift/Taylor Swift - Red (Taylor's Version) (2021) [FLAC] [24B-96kHz]/04. Taylor Swift - I Knew You Were Trouble (Taylor's Version) (Explicit).flac
+629:Taylor Swift/Taylor Swift - Speak Now (Taylor's Version) (2023) [FLAC] [24B-44.1kHz]/07. Taylor Swift - The Story Of Us (Taylor's Version).flac
+630:Taylor Swift/Taylor Swift - Lover (2019) [FLAC] [24B-44.1kHz]/11. Taylor Swift - London Boy.flac
+631:Taylor Swift/Taylor Swift - Fearless (Taylor's Version) (2021) [FLAC] [24B-96kHz]/19. Taylor Swift - The Other Side Of The Door (Taylor’s Version).flac
+632:Taylor Swift/Taylor Swift - Red (Taylor's Version) (2021) [FLAC] [24B-96kHz]/29. Taylor Swift - The Very First Night (Taylor's Version) (From The Vault) (Explicit).flac
+633:Taylor Swift/Taylor Swift - Midnights (3am Edition) (2022) [FLAC] [24B-48kHz]/17. Taylor Swift - High Infidelity (Explicit).flac
+634:Taylor Swift/Taylor Swift - Red (Taylor's Version) (2021) [FLAC] [24B-96kHz]/08. Taylor Swift - We Are Never Ever Getting Back Together (Taylor's Version) (Explicit).flac
+635:Taylor Swift/Taylor Swift - Speak Now (Taylor's Version) (2023) [FLAC] [24B-44.1kHz]/19. Taylor Swift - I Can See You (Taylor’s Version) (From The Vault).flac
+636:Taylor Swift/Taylor Swift - Lover (2019) [FLAC] [24B-44.1kHz]/13. Taylor Swift - False God.flac
+637:Taylor Swift/Taylor Swift - Fearless (Taylor's Version) (2021) [FLAC] [24B-96kHz]/12. Taylor Swift - The Best Day (Taylor’s Version).flac
+638:Taylor Swift/Taylor Swift - reputation (2017) [FLAC] [24B-44.1kHz]/08. Taylor Swift - Gorgeous.flac
+639:Taylor Swift/Taylor Swift - Speak Now (Taylor's Version) (2023) [FLAC] [24B-44.1kHz]/02. Taylor Swift - Sparks Fly (Taylor’s Version).flac
+640:Taylor Swift/Taylor Swift - Red (Taylor's Version) (2021) [FLAC] [24B-96kHz]/10. Taylor Swift - The Last Time (Taylor's Version) (Explicit).flac
+641:Taylor Swift/Taylor Swift - Speak Now (Taylor's Version) (2023) [FLAC] [24B-44.1kHz]/11. Taylor Swift - Innocent (Taylor's Version).flac
 playlist_end
