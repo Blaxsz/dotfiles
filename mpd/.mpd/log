@@ -977,3 +977,17 @@ Nov 18 12:04 : player: played "Taylor Swift/Taylor Swift - Speak Now (Taylor's V
 Nov 18 12:04 : output: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
 Nov 18 12:07 : player: played "Taylor Swift/Taylor Swift - Midnights (3am Edition) (2022) [FLAC] [24B-48kHz]/05. Taylor Swift - You're On Your Own, Kid (Explicit).flac"
 Nov 18 12:07 : output: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Nov 18 12:12 : player: played "Taylor Swift/Taylor Swift - folklore (deluxe version - explicit) (2020) [FLAC] [24B-44.1kHz]/13. Taylor Swift - epiphany (Explicit).flac"
+Nov 18 12:13 : player: played "Taylor Swift/Taylor Swift - 1989 (Deluxe Edition) (2014) [FLAC] [24B-44.1kHz]/18. Taylor Swift - I Wish You Would (Voice Memo).flac"
+Nov 18 12:13 : output: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Nov 18 12:15 : player: played "Taylor Swift/Taylor Swift - Fearless (Taylor's Version) (2021) [FLAC] [24B-96kHz]/23. Taylor Swift - We Were Happy (Taylor’s Version) (From The Vault).flac"
+Nov 18 13:55 : output: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Nov 18 13:57 : player: played "Taylor Swift/Taylor Swift - Fearless (Taylor's Version) (2021) [FLAC] [24B-96kHz]/23. Taylor Swift - We Were Happy (Taylor’s Version) (From The Vault).flac"
+Nov 18 13:57 : output: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Nov 18 14:01 : player: played "Taylor Swift/Taylor Swift - evermore (deluxe version) (2020) [FLAC] [24B-88.2kHz]/10. Taylor Swift - ivy (Explicit).flac"
+Nov 18 14:01 : output: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Nov 18 14:06 : player: played "Taylor Swift/Taylor Swift - Speak Now (Taylor's Version) (2023) [FLAC] [24B-44.1kHz]/03. Taylor Swift - Back To December (Taylor's Version).flac"
+Nov 18 14:10 : player: played "Taylor Swift/Taylor Swift - reputation (2017) [FLAC] [24B-44.1kHz]/02. Taylor Swift - End Game.flac"
+Nov 18 14:10 : output: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Nov 18 14:15 : player: played "Taylor Swift/Taylor Swift - Midnights (3am Edition) (2022) [FLAC] [24B-48kHz]/10. Taylor Swift - Labyrinth (Explicit).flac"
+Nov 18 14:15 : output: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
