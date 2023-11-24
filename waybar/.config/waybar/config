@@ -1,0 +1,30 @@
+{
+    "layer": "top",
+    "modules-left": ["hyprland/workspaces", ],
+    "modules-center": ["hyprland/window"],
+    "modules-right": ["wireplumber", "clock", "tray"],
+    "height": 25,
+
+    "clock": {
+        "timezone": "America/Sao_Paulo",
+        "tooltip-format": "<big>{:%Y %B}</big>\n<tt><small>{calendar}</small></tt>",
+        "format": " {:%H:%M}",
+        "format-alt": " {:%d/%m/%Y}"
+    },
+    "hyprland/workspaces": {
+        "active-only": "true",
+    },
+    "hyprland/window": {
+        "format": "{title}"
+    },
+    "wireplumber": {
+    "format": "{icon} {volume}%  ",
+    "format-muted": "",
+    "format-icons": ["", "", ""]
+    },
+    "tray": {
+        "icon-size": "20",
+        "show-passive-items": "true",
+        "spacing": "0"
+    }
+}

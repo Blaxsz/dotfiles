@@ -21,10 +21,10 @@ fi
 [[ $- != *i* ]] && return
 
 alias du="du -h"
-alias cat="batcat --theme="OneHalfLight""
+alias cat="bat --theme="OneHalfLight""
 alias ls="eza --icons"
 alias lg="lazygit"
-export PATH=/home/darknoul/.local/bin:/home/darknoul/go/bin:/home/darknoul/.cargo/bin:$PATH
+export PATH=$HOME/.local/bin:$HOME/go/bin:$HOME/.cargo/bin:$PATH
 export EDITOR=nvim
 
 # Set fzf theme
@@ -38,8 +38,7 @@ source ~/powerlevel10k/powerlevel10k.zsh-theme
 # To customize prompt, run `p10k configure` or edit ~/.p10k.zsh.
 [[ ! -f ~/.p10k.zsh ]] || source ~/.p10k.zsh
 
+
 #THIS MUST BE AT THE END OF THE FILE FOR SDKMAN TO WORK!!!
 export SDKMAN_DIR="$HOME/.sdkman"
 [[ -s "$HOME/.sdkman/bin/sdkman-init.sh" ]] && source "$HOME/.sdkman/bin/sdkman-init.sh"
-
-

@@ -1,0 +1,18 @@
+.modules-left {
+  padding: 0px 0px 0px 0px;
+}
+window#waybar {
+  background: @theme_base_color;
+  border-bottom: 1px solid @unfocused_borders;
+  color: @theme_text_color;
+}
+#workspaces button {
+  border-radius: 0;
+  padding: 0px 11px 0px 11px;
+  color: @theme_text_color;
+}
+#workspaces button.active {
+  border-radius: 0;
+  padding: 0px 11px 0px 11px;
+  background-color: #acb0be;
+}
