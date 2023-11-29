@@ -8,7 +8,7 @@
     "clock": {
         "timezone": "America/Sao_Paulo",
         "tooltip-format": "<big>{:%Y %B}</big>\n<tt><small>{calendar}</small></tt>",
-        "format": " {:%H:%M}",
+        "format": "<span font-family=\"FontAwesome6Free\"> </span>{:%H:%M}",
         "format-alt": " {:%d/%m/%Y}"
     },
     "hyprland/workspaces": {
@@ -18,7 +18,7 @@
         "format": "{title}"
     },
     "wireplumber": {
-    "format": "{icon} {volume}%  ",
+    "format": "<span font-family=\"FontAwesome6Free\"> {icon}</span> {volume}%  ",
     "format-muted": "",
     "format-icons": ["", "", ""]
     },

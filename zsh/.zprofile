@@ -1,6 +1,7 @@
 export EDITOR="nvim"
 export TERMINAL="footclient"
 export QT_QPA_PLATFORMTHEME="qt5ct"
+export _JAVA_AWT_WM_NONREPARENTING=1
 
 # MPD daemon start (if no other user instance exists)
 [ ! -s ~/.config/mpd/pid ] && mpd
